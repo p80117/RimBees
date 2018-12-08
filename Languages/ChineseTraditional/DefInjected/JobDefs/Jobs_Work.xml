@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+
+  <!--============= Extracting Bees ===============-->
+    <RB_InsertingBees.reportString>放入蜜蜂.</RB_InsertingBees.reportString>  
+	<RB_InsertingQueenBees.reportString>放入女王蜂.</RB_InsertingQueenBees.reportString>
+    <RB_TakeThingsOutOfBeehouseJob.reportString>從蜜蜂房裡取出東西.</RB_TakeThingsOutOfBeehouseJob.reportString> 
+    <RB_TakeThingsOutOfBroodChamberJob.reportString>讓蜜蜂離開育雛室.</RB_TakeThingsOutOfBroodChamberJob.reportString>
+    <RB_TakeThingsOutOfHybridizationChamberJob.reportString>讓蜜蜂離開雜交室.</RB_TakeThingsOutOfHybridizationChamberJob.reportString>
+    <RB_FillMeadFermentingBarrelJob.reportString>填寫目標A..</RB_FillMeadFermentingBarrelJob.reportString>
+    <RB_TakeMeadOutOfFermentingBarrelJob.reportString>從目標A中取出啤酒.</RB_TakeMeadOutOfFermentingBarrelJob.reportString>
+
+
+</LanguageData>

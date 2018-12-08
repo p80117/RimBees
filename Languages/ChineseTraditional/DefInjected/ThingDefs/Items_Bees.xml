@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+	
+	<!--========== Tier 1: Basic Branch ==========-->
+
+	<!--=============== Temperate ====================-->
+	<RB_Bee_Temperate_Drone.label>溫帶雄蜂</RB_Bee_Temperate_Drone.label>
+	<RB_Bee_Temperate_Drone.description>溫帶蜜蜂是最常見的蜜蜂，來自地球的西方蜜蜂。 他們生產蜂蜜，嗡嗡作響，是非常好的小動物。\n \nBee特性：\n \n生產時間：24小時\n夜間活動：否\n親血培蟲：否\n需要特殊植物：否\n最低溫度：0ºC\n最高溫度 ：30ºC</RB_Bee_Temperate_Drone.description>
+	<RB_Bee_Temperate_Queen.label>溫帶女王蜂</RB_Bee_Temperate_Queen.label>
+	<RB_Bee_Temperate_Queen.description>溫帶蜜蜂是最常見的蜜蜂，來自地球的西方蜜蜂。 他們生產蜂蜜，嗡嗡作響，是非常好的小動物。\n \nBee特性：\n \n生產時間：24小時\n夜間活動：否\n親血培蟲：否\n需要特殊植物：否\n最低溫度：0ºC\n最高溫度 ：30ºC</RB_Bee_Temperate_Queen.description>
+	<!--=============== Mild ====================-->
+
+	<RB_Bee_Mild_Drone.label>溫和的雄蜂</RB_Bee_Mild_Drone.label>
+	<RB_Bee_Mild_Queen.label>溫和的女王蜂</RB_Bee_Mild_Queen.label>
+	<RB_Bee_Mild_Drone.description>溫和的蜜蜂是適應平均溫度和溫和氣候的蜜蜂，它們產生的蜂蜜很少。 它們可能是常見蜜蜂古代遺傳操縱的遺留物，但它們的特殊性狀已被時間稀釋。 也許如果它們是與普通蜜蜂雜交...... \n \nBee特性：\n \n生產時間：23小時\n夜間活動：否\n親氧菌：否\n需要特殊植物：否\n最低溫度：0ºC\n最高溫度：30ºC</RB_Bee_Mild_Drone.description> 
+	<RB_Bee_Mild_Queen.description>溫和的蜜蜂是適應平均溫度和溫和氣候的蜜蜂，它們產生的蜂蜜很少。 它們可能是常見蜜蜂古代遺傳操縱的遺留物，但它們的特殊性狀已被時間稀釋。 也許如果它們是與普通蜜蜂雜交...... \n \nBee特性：\n \n生產時間：23小時\n夜間活動：否\n親氧菌：否\n需要特殊植物：否\n最低溫度：0ºC\n最高溫度：30ºC</RB_Bee_Mild_Queen.description> 
+	
+
+	<!--=============== Hybrid ====================-->
+	
+	<RB_Bee_Hybrid_Drone.description>雜交蜜蜂具有溫帶和溫和蜜蜂的混合特性，是為群體創造專門蜜蜂的第一步。 它們仍然不是很特別，但是如果它們是雜交的，它們的隱藏潛力可能會進一步被喚醒。\n \nBee特性：\n \n生產時間：24小時\n夜間活動：否\n親血微生物：否\n需要不需要的植物：沒有 n最低溫度：0ºC\n最高溫度：30ºC</RB_Bee_Hybrid_Drone.description>  
+	<RB_Bee_Hybrid_Queen.description>雜交蜜蜂具有溫帶和溫和蜜蜂的混合特性，是為群體創造專門蜜蜂的第一步。 它們仍然不是很特別，但是如果它們是雜交的，它們的隱藏潛力可能會進一步被喚醒。\n \nBee特性：\n \n生產時間：24小時\n夜間活動：否\n親血微生物：否\n需要不需要的植物：沒有 n最低溫度：0ºC\n最高溫度：30ºC</RB_Bee_Hybrid_Queen.description>  
+
+	<RB_Bee_Hybrid_Drone.label>雜交雄蜂</RB_Bee_Hybrid_Drone.label>
+	<RB_Bee_Hybrid_Queen.label>雜交女王蜂</RB_Bee_Hybrid_Queen.label>
+
+	<!--=============== Amalgam ====================-->
+	
+	<RB_Bee_Amalgam_Drone.description>汞合金蜂是改良的雜交種，所有專門的蜜蜂都是從它們分支出來的。 它們的工作速度比基本蜜蜂快一些。\n \nBee特性：\n \n生產時間：18小時\n夜間活動：否\n親氧劑：否\n需要異常植物：否\n最低溫度：0ºC\n最高溫度：30ºC</RB_Bee_Amalgam_Drone.description> 
+	<RB_Bee_Amalgam_Queen.description>汞合金蜂是改良的雜交種，所有專門的蜜蜂都是從它們分支出來的。 它們的工作速度比基本蜜蜂快一些。\n \nBee特性：\n \n生產時間：18小時\n夜間活動：否\n親氧劑：否\n需要異常植物：否\n最低溫度：0ºC\n最高溫度：30ºC</RB_Bee_Amalgam_Queen.description> 
+
+	<RB_Bee_Amalgam_Drone.label>汞合金 雄蜂</RB_Bee_Amalgam_Drone.label>
+	<RB_Bee_Amalgam_Queen.label>汞合金 女王蜂</RB_Bee_Amalgam_Queen.label>
+
+	<!--========== Tier 2: Specialized Branches ==========-->
+
+	<!--=============== Alloy ====================-->
+
+	<RB_Bee_Alloy_Drone.description>合金蜜蜂能夠生產含金屬化合物的蜂窩。 不過，他們的蜂蜜產量很少。 基本的Alloy Bee生產鋼鍍蜂窩，但它可以雜交以獲得更專業的蜜蜂。 請注意，這只蜜蜂需要附近有一些鋼鐵的庫存才能完成它的工作！\n \nBee特性：\n \n生產時間：24小時\n夜間活動：否\nPluviophile：否\n需要不尋常的工廠或資源：鋼鐵\n最低溫度：0ºC\n最高溫度：30ºC</RB_Bee_Alloy_Drone.description> 
+	<RB_Bee_Alloy_Queen.description>合金蜜蜂能夠生產含金屬化合物的蜂窩。 不過，他們的蜂蜜產量很少。 基本的Alloy Bee生產鋼鍍蜂窩，但它可以雜交以獲得更專業的蜜蜂。 請注意，這只蜜蜂需要附近有一些鋼鐵的庫存才能完成它的工作！\n \nBee特性：\n \n生產時間：24小時\n夜間活動：否\nPluviophile：否\n需要不尋常的工廠或資源：鋼鐵\n最低溫度：0ºC\n最高溫度：30ºC</RB_Bee_Alloy_Queen.description> 
+	
+	<RB_Bee_Alloy_Drone.label>合金 雄蜂</RB_Bee_Alloy_Drone.label>
+	<RB_Bee_Alloy_Queen.label>合金 女王蜂</RB_Bee_Alloy_Queen.label>
+
+	<!--=============== Adaptive ====================-->
+
+	<RB_Bee_Adaptive_Drone.description>適應性蜜蜂對它們所處的生物群系的條件影響不大。因此，它們可以在低溫和高溫下更好地工作，並且它們的工作速度非常快。 你需要保持它們的雜交才能得到真正專業的蜜蜂！\n \nBee特性：\n \n生產時間：12小時\n夜間活動：否\n親血微生物：否\n需要異常植物或所需資源：否\n最低溫度： -5ºC\n最高溫度：40ºC</RB_Bee_Adaptive_Drone.description> 
+	<RB_Bee_Adaptive_Queen.description>適應性蜜蜂對它們所處的生物群系的條件影響不大。因此，它們可以在低溫和高溫下更好地工作，並且它們的工作速度非常快。 你需要保持它們的雜交才能得到真正專業的蜜蜂！\n \nBee特性：\n \n生產時間：12小時\n夜間活動：否\n親血微生物：否\n需要異常植物或所需資源：否\n最低溫度： -5ºC\n最高溫度：40ºC</RB_Bee_Adaptive_Queen.description> 
+	
+	<RB_Bee_Adaptive_Drone.label>自適應雄蜂</RB_Bee_Adaptive_Drone.label>	
+	<RB_Bee_Adaptive_Queen.label>自適應女王蜂</RB_Bee_Adaptive_Queen.label>
+
+	<!--=============== Neutro ====================-->
+
+	<RB_Bee_Neutro_Drone.description>胺蜜蜂從附近的地方捕獲殘留的化合物，並將它們儲存在蜂巢中，生成中性胺。 請注意，這只蜜蜂需要附近有一些神經胺的儲備才能完成它的工作！ \n \nBee特性：\n \n生產時間：24小時\n夜間活動：否\n親熒光劑：否\n需要異常的植物或所需資源：Neutroamine \n最高溫度：0ºC\n最高溫度：30ºC</RB_Bee_Neutro_Drone.description> 
+	<RB_Bee_Neutro_Queen.description>胺蜜蜂從附近的地方捕獲殘留的化合物，並將它們儲存在蜂巢中，生成中性胺。 請注意，這只蜜蜂需要附近有一些神經胺的儲備才能完成它的工作！ \n \nBee特性：\n \n生產時間：24小時\n夜間活動：否\n親熒光劑：否\n需要異常的植物或所需資源：Neutroamine \n最高溫度：0ºC\n最高溫度：30ºC</RB_Bee_Neutro_Queen.description> 
+	
+	<RB_Bee_Neutro_Drone.label>胺 雄蜂</RB_Bee_Neutro_Drone.label>	
+	<RB_Bee_Neutro_Queen.label>胺 女王蜂</RB_Bee_Neutro_Queen.label>
+
+	<!--=============== Nutritious ====================-->
+
+	<RB_Bee_Nutritious_Drone.description>營養豐富的蜜蜂會產生滴血的肉質蜂窩。 這只是令人作嘔的......然而，它們可以進一步雜交成為生產各種食用食品的眾多專業蜜蜂。\n \nBee特性：\n \n生產時間：24小時\n夜間活動：否\n親血微生物：沒有 n所需的異常植物或所需資源：否\n最高溫度：0ºC\n最高溫度：30ºC</RB_Bee_Nutritious_Drone.description> 
+	<RB_Bee_Nutritious_Queen.description>營養豐富的蜜蜂會產生滴血的肉質蜂窩。 這只是令人作嘔的......然而，它們可以進一步雜交成為生產各種食用食品的眾多專業蜜蜂。\n \nBee特性：\n \n生產時間：24小時\n夜間活動：否\n親血微生物：沒有 n所需的異常植物或所需資源：否\n最高溫度：0ºC\n最高溫度：30ºC</RB_Bee_Nutritious_Queen.description> 
+
+	<RB_Bee_Nutritious_Drone.label>有營養 雄蜂</RB_Bee_Nutritious_Drone.label>
+	<RB_Bee_Nutritious_Queen.label>有營養 女王蜂</RB_Bee_Nutritious_Queen.label>
+
+	<!--=============== Technological ====================-->
+
+	<RB_Bee_Technological_Drone.description>科技蜜蜂是蜜蜂的一部分，是部分機器。 它們可以進一步雜交成蜜蜂，提供化學燃料，組分和其他技術奇蹟。 但更重要的是，他們生產生物接口組件，用於建造先進的養蜂場。\n \nBee特性：\n \n生產時間：48小時\n夜間活動：否\n親血微生物：否\n需要不尋常的植物或資源：否\n最小 溫度：0ºC\n最高溫度：30ºC</RB_Bee_Technological_Drone.description> 
+	<RB_Bee_Technological_Queen.description>科技蜜蜂是蜜蜂的一部分，是部分機器。 它們可以進一步雜交成蜜蜂，提供化學燃料，組分和其他技術奇蹟。 但更重要的是，他們生產生物接口組件，用於建造先進的養蜂場。\n \nBee特性：\n \n生產時間：48小時\n夜間活動：否\n親血微生物：否\n需要不尋常的植物或資源：否\n最小 溫度：0ºC\n最高溫度：30ºC</RB_Bee_Technological_Queen.description> 
+	
+	<RB_Bee_Technological_Drone.label>科技 雄蜂</RB_Bee_Technological_Drone.label>
+	<RB_Bee_Technological_Queen.label>科技 女王蜂</RB_Bee_Technological_Queen.label>
+
+	<!--========== Tier 3: Biome Branch - From Adaptive Bees ==========-->	
+
+	<!--=============== Arctic ====================-->
+
+	<RB_Bee_Arctic_Drone.description>北極蜜蜂可以在最寒冷的氣候環境中生存，不需要任何人工熱源。 如果你在不同品種蜜蜂的蜂房中使用它們，它們會降低它們可以使用的最小溫度。\n \nBee特性：\n \n生產時間：24小時\n夜間活動：否\n親血微生物：否\n異常植物 或所需資源：否\n最低溫度：-100ºC\n最高溫度：0ºC</RB_Bee_Arctic_Drone.description> 
+	<RB_Bee_Arctic_Queen.description>北極蜜蜂可以在最寒冷的氣候環境中生存，不需要任何人工熱源。 如果你在不同品種蜜蜂的蜂房中使用它們，它們會降低它們可以使用的最小溫度。\n \nBee特性：\n \n生產時間：24小時\n夜間活動：否\n親血微生物：否\n異常植物 或所需資源：否\n最低溫度：-100ºC\n最高溫度：0ºC</RB_Bee_Arctic_Queen.description> 
+	
+	<RB_Bee_Arctic_Drone.label>北極 雄蜂</RB_Bee_Arctic_Drone.label>		
+	<RB_Bee_Arctic_Queen.label>北極 女王蜂</RB_Bee_Arctic_Queen.label>
+	
+	<!--=============== Desert ====================-->
+
+	<RB_Bee_Desert_Drone.description>沙漠蜜蜂生長在極其乾燥和炎熱的生物群落中。 他們幾乎不需要水來生存，但結果卻產生的蜂蜜非常少。 如果你在不同品種的蜜蜂的蜂房中使用它們，它們會提高它們可以使用的最大溫度。\n \nBee特性：\n \n生產時間：24小時\n夜間活動：否\n親血微生物：否\n異常植物 或所需資源：否\n最低溫度：30ºC\n最高溫度：100ºC</RB_Bee_Desert_Drone.description> 
+	<RB_Bee_Desert_Queen.description>沙漠蜜蜂生長在極其乾燥和炎熱的生物群落中。 他們幾乎不需要水來生存，但結果卻產生的蜂蜜非常少。 如果你在不同品種的蜜蜂的蜂房中使用它們，它們會提高它們可以使用的最大溫度。\n \nBee特性：\n \n生產時間：24小時\n夜間活動：否\n親血微生物：否\n異常植物 或所需資源：否\n最低溫度：30ºC\n最高溫度：100ºC</RB_Bee_Desert_Queen.description> 
+
+	<RB_Bee_Desert_Drone.label>沙漠 雄蜂</RB_Bee_Desert_Drone.label>
+	<RB_Bee_Desert_Queen.label>沙漠 女王蜂</RB_Bee_Desert_Queen.label>
+
+	<!--=============== Swamp ====================-->
+
+	<RB_Bee_Swamp_Drone.description>沼澤蜜蜂在高濕度環境和行星中進化。 它們收集從熱帶雨林的異域植物中提取的奇怪的有機化合物和它們生活的沼澤，給它們的蜂蜜和蠟帶來刺鼻的化學氣味。 如果你在蜜蜂房中使用不同品種的蜜蜂，它們會讓你的蜜蜂在雨中工作。\n \nBee特性：\n \n生產時間：24小時\n夜間活動：沒有\nPluviophile：是\n異常植物 或所需資源：否\n最低溫度：10ºC\n最高溫度：55ºC</RB_Bee_Swamp_Drone.description> 
+	<RB_Bee_Swamp_Queen.description>沼澤蜜蜂在高濕度環境和行星中進化。 它們收集從熱帶雨林的異域植物中提取的奇怪的有機化合物和它們生活的沼澤，給它們的蜂蜜和蠟帶來刺鼻的化學氣味。 如果你在蜜蜂房中使用不同品種的蜜蜂，它們會讓你的蜜蜂在雨中工作。\n \nBee特性：\n \n生產時間：24小時\n夜間活動：沒有\nPluviophile：是\n異常植物 或所需資源：否\n最低溫度：10ºC\n最高溫度：55ºC</RB_Bee_Swamp_Queen.description> 
+
+	<RB_Bee_Swamp_Drone.label>沼澤 雄蜂</RB_Bee_Swamp_Drone.label>
+	<RB_Bee_Swamp_Queen.label>沼澤 女王蜂</RB_Bee_Swamp_Queen.label>
+
+	<!--=============== Nocturnal ====================-->
+
+	<RB_Bee_Nocturnal_Drone.description>夜間蜜蜂適應黑暗，他們不需要像其他品種那樣在夜間減少活動。 如果你在蜜蜂房中使用不同品種的蜜蜂，他們會允許你的蜜蜂在夜間工作。\n \nBee特性：\n \n生產時間：24小時\n夜間活動：是\n親血症：沒有\n異常植物 或所需資源：否\n最低溫度：-10ºC\n最高溫度：25ºC</RB_Bee_Nocturnal_Drone.description> 
+	<RB_Bee_Nocturnal_Queen.description>夜間蜜蜂適應黑暗，他們不需要像其他品種那樣在夜間減少活動。 如果你在蜜蜂房中使用不同品種的蜜蜂，他們會允許你的蜜蜂在夜間工作。\n \nBee特性：\n \n生產時間：24小時\n夜間活動：是\n親血症：沒有\n異常植物 或所需資源：否\n最低溫度：-10ºC\n最高溫度：25ºC</RB_Bee_Nocturnal_Queen.description> 
+
+	<RB_Bee_Nocturnal_Drone.label>夜間 雄蜂</RB_Bee_Nocturnal_Drone.label>
+	<RB_Bee_Nocturnal_Queen.label>夜間 女王蜂</RB_Bee_Nocturnal_Queen.label>
+
+	<!--========== Tier 3: Miner Branch - From Alloy Bees ==========-->	
+
+	<!--=============== Argent ====================-->
+
+	<RB_Bee_Argent_Drone.description>銀色蜜蜂能夠生產含有銀化合物的蜂窩。 不過，他們的蜂蜜產量很少。 請注意，這只蜜蜂需要附近有一些白銀才能完成它的工作！\n \nBee特性：\n \n生產時間：24小時\n夜間活動：否\nPluviophile：否\n需要不尋常的植物或資源：銀\n最低溫度：0ºC\n最高溫度：30ºC</RB_Bee_Argent_Drone.description> 
+	<RB_Bee_Argent_Queen.description>銀色蜜蜂能夠生產含有銀化合物的蜂窩。 不過，他們的蜂蜜產量很少。 請注意，這只蜜蜂需要附近有一些白銀才能完成它的工作！\n \nBee特性：\n \n生產時間：24小時\n夜間活動：否\nPluviophile：否\n需要不尋常的植物或資源：銀\n最低溫度：0ºC\n最高溫度：30ºC</RB_Bee_Argent_Queen.description> 
+
+	<RB_Bee_Argent_Drone.label>銀色 雄蜂</RB_Bee_Argent_Drone.label>
+	<RB_Bee_Argent_Queen.label>銀色 女王蜂</RB_Bee_Argent_Queen.label>
+
+	<!--=============== Aurum ====================-->
+
+	<RB_Bee_Aurum_Drone.description>金蜜蜂能夠生產含有金化合物的蜂窩。 不過，他們的蜂蜜產量很少。 請注意，這只蜜蜂需要附近有一些黃金的庫存才能完成它的工作！\n \nBee特性：\n \n生產時間：24小時\n夜間活動：否\n親血微生物：否\n需要不尋常的植物或資源：黃金\n最低溫度：0ºC\n最高溫度：30ºC</RB_Bee_Aurum_Drone.description> 
+	<RB_Bee_Aurum_Queen.description>金蜜蜂能夠生產含有金化合物的蜂窩。 不過，他們的蜂蜜產量很少。 請注意，這只蜜蜂需要附近有一些黃金的庫存才能完成它的工作！\n \nBee特性：\n \n生產時間：24小時\n夜間活動：否\n親血微生物：否\n需要不尋常的植物或資源：黃金\n最低溫度：0ºC\n最高溫度：30ºC</RB_Bee_Aurum_Queen.description> 
+
+	<RB_Bee_Aurum_Drone.label>金 雄蜂</RB_Bee_Aurum_Drone.label>
+	<RB_Bee_Aurum_Queen.label>金 女王蜂</RB_Bee_Aurum_Queen.label>
+
+	<!--=============== Precious ====================-->
+
+	<RB_Bee_Precious_Drone.description>珍貴的蜜蜂能夠生產含有玉石化合物的蜂窩。 不過，他們的蜂蜜產量很少。 請注意，這只蜜蜂需要附近有一些玉石才能完成它的工作！\n \nBee特性：\n \n生產時間：24小時\n夜間活動：沒有\nPluviophile：否\n需要不尋常的植物或資源：玉\n最低溫度：0ºC\n最高溫度：30ºC</RB_Bee_Precious_Drone.description> 
+	<RB_Bee_Precious_Queen.description>珍貴的蜜蜂能夠生產含有玉石化合物的蜂窩。 不過，他們的蜂蜜產量很少。 請注意，這只蜜蜂需要附近有一些玉石才能完成它的工作！\n \nBee特性：\n \n生產時間：24小時\n夜間活動：沒有\nPluviophile：否\n需要不尋常的植物或資源：玉\n最低溫度：0ºC\n最高溫度：30ºC</RB_Bee_Precious_Queen.description> 
+
+	<RB_Bee_Precious_Drone.label>珍貴的 雄蜂</RB_Bee_Precious_Drone.label>
+	<RB_Bee_Precious_Queen.label>珍貴的 女王蜂</RB_Bee_Precious_Queen.label>
+
+	<!--=============== Radioactive ====================-->
+
+	<RB_Bee_Radioactive_Drone.description>放射性蜜蜂能夠生產含有鈾化合物的蜂窩。 不過，他們的蜂蜜產量很少。 請注意，這只蜜蜂需要附近有一些鈾儲存才能完成它的工作！\n \nBee特性：\n \n生產時間：24小時\n夜間活動：否\n親血微生物：否\n需要不尋常的植物或資源：鈾\n最低溫度：0ºC\n最高溫度：30ºC</RB_Bee_Radioactive_Drone.description> 
+	<RB_Bee_Radioactive_Queen.description>放射性蜜蜂能夠生產含有鈾化合物的蜂窩。 不過，他們的蜂蜜產量很少。 請注意，這只蜜蜂需要附近有一些鈾儲存才能完成它的工作！\n \nBee特性：\n \n生產時間：24小時\n夜間活動：否\n親血微生物：否\n需要不尋常的植物或資源：鈾\n最低溫度：0ºC\n最高溫度：30ºC</RB_Bee_Radioactive_Queen.description> 
+
+	<RB_Bee_Radioactive_Drone.label>放射性 雄蜂</RB_Bee_Radioactive_Drone.label>
+	<RB_Bee_Radioactive_Queen.label>放射性 女王蜂</RB_Bee_Radioactive_Queen.label>
+		
+	<!--========== Tier 3: Drugs Branch - From Neutro Bees ==========-->	
+
+	<!--=============== Tipsy ====================-->
+
+	<RB_Bee_Tipsy_Drone.description>喝醉的蜜蜂會長時間醉酒，在不穩定的軌跡中四處移動，並導致他們進入的任何酒吧出現問題。 他們生產用麥芽汁飽和的蜂巢，然後將其發酵成啤酒。 這些蜜蜂將需要一個生長區，附近至少有一個啤酒花植物生長在他們的工作。\n \nBee特性：\n \n生產時間：24小時\n夜間活動：否\nPluviophile：是\n所需植物或所需資源：啤酒花 植物\n最低溫度：0ºC\n最高溫度：30ºC</RB_Bee_Tipsy_Drone.description> 
+	<RB_Bee_Tipsy_Queen.description>喝醉的蜜蜂會長時間醉酒，在不穩定的軌跡中四處移動，並導致他們進入的任何酒吧出現問題。 他們生產用麥芽汁飽和的蜂巢，然後將其發酵成啤酒。 這些蜜蜂將需要一個生長區，附近至少有一個啤酒花植物生長在他們的工作。\n \nBee特性：\n \n生產時間：24小時\n夜間活動：否\nPluviophile：是\n所需植物或所需資源：啤酒花 植物\n最低溫度：0ºC\n最高溫度：30ºC</RB_Bee_Tipsy_Queen.description> 
+
+	<RB_Bee_Tipsy_Drone.label>喝醉的 雄蜂</RB_Bee_Tipsy_Drone.label>
+	<RB_Bee_Tipsy_Queen.label>喝醉的 女王蜂</RB_Bee_Tipsy_Queen.label>
+
+
+	<!--=============== Luxurious ====================-->
+
+	<RB_Bee_Luxurious_Drone.description>豪華的蜜蜂能夠以驚人的方式集中花粉，將其轉化為仙饈果，這是一種在Rim上廣泛使用的非常溫和的藥物。\n \nBee特性：\n \n生產時間：72小時\n夜間活動：否\nPluviophile： 否\n需要異常的工廠或資源：否\n最高溫度：0ºC\n最高溫度：30ºC</RB_Bee_Luxurious_Drone.description> 
+	<RB_Bee_Luxurious_Queen.description>豪華的蜜蜂能夠以驚人的方式集中花粉，將其轉化為仙饈果，這是一種在Rim上廣泛使用的非常溫和的藥物。\n \nBee特性：\n \n生產時間：72小時\n夜間活動：否\nPluviophile： 否\n需要異常的工廠或資源：否\n最高溫度：0ºC\n最高溫度：30ºC</RB_Bee_Luxurious_Queen.description> 
+
+	<RB_Bee_Luxurious_Drone.label>豪華的 雄蜂</RB_Bee_Luxurious_Drone.label>
+	<RB_Bee_Luxurious_Queen.label>豪華的 女王蜂</RB_Bee_Luxurious_Queen.label>
+
+
+	<!--=============== Psychic ====================-->
+
+	<RB_Bee_Psychic_Drone.description>心靈蜜蜂知道一切，看到一切。 不是因為他們是明智的古代先知，而是因為他們的小身體充滿了精神化合物。 這些蜜蜂將需要一個生長區，附近至少有一個精神病生長在他們的工作。\n \nBee特性：\n \n生產時間：24小時\n夜間活動：否\n親血微生物：否\n需要不尋常的植物或資源：精神病植物 \n最低溫度：0ºC\n最高溫度：30ºC</RB_Bee_Psychic_Drone.description> 
+	<RB_Bee_Psychic_Queen.description>心靈蜜蜂知道一切，看到一切。 不是因為他們是明智的古代先知，而是因為他們的小身體充滿了精神化合物。 這些蜜蜂將需要一個生長區，附近至少有一個精神病生長在他們的工作。\n \nBee特性：\n \n生產時間：24小時\n夜間活動：否\n親血微生物：否\n需要不尋常的植物或資源：精神病植物 \n最低溫度：0ºC\n最高溫度：30ºC</RB_Bee_Psychic_Queen.description> 
+
+	<RB_Bee_Psychic_Drone.label>心靈 雄蜂</RB_Bee_Psychic_Drone.label>
+	<RB_Bee_Psychic_Queen.label>心靈 女王蜂</RB_Bee_Psychic_Queen.label>
+
+	<!--=============== Stoner ====================-->
+
+	<RB_Bee_Stoner_Drone.description>男人......就像......你見過Rim嗎？ 這就像......完全搞砸了，男人......就像，Woaaa ......通過那個關節。 這些蜜蜂將需要一個生長區，附近至少有一個煙囪可以完成它們的工作。\n \nBee特性：\n \n生產時間：24小時\n夜間活動：沒有\n親血微生物：否\n需要不尋常的植物或資源：菸葉植物 \n最低溫度：0ºC\n最高溫度：30ºC</RB_Bee_Stoner_Drone.description> 
+	<RB_Bee_Stoner_Queen.description>男人......就像......你見過Rim嗎？ 這就像......完全搞砸了，男人......就像，Woaaa ......通過那個關節。 這些蜜蜂將需要一個生長區，附近至少有一個煙囪可以完成它們的工作。\n \nBee特性：\n \n生產時間：24小時\n夜間活動：沒有\n親血微生物：否\n需要不尋常的植物或資源：菸葉植物 \n最低溫度：0ºC\n最高溫度：30ºC</RB_Bee_Stoner_Queen.description> 
+
+	<RB_Bee_Stoner_Drone.label>吸大麻的 雄蜂</RB_Bee_Stoner_Drone.label>
+	<RB_Bee_Stoner_Queen.label>吸大麻的 女王蜂</RB_Bee_Stoner_Queen.label>
+
+	<!--========== Tier 3: Nutrition Branch - From Nutritious Bees ==========-->	
+
+	<!--=============== Agricultural ====================-->
+
+	<RB_Bee_Agricultural_Drone.description>農業蜜蜂是艱苦的工作者，從他們的環境中提取穀物，並填充充滿奇怪的未分化種子的蜂巢。 這些蜜蜂將需要一個生長區，附近至少有一株玉米植物可以完成它們的工作。\n \nBee特性：\n \n生產時間：16小時\n夜間活動：沒有\nPluviophile：是\n需要非常的植物或所需資源：玉米 植物\n最高溫度：5ºC\n最高溫度：25ºC</RB_Bee_Agricultural_Drone.description> 
+	<RB_Bee_Agricultural_Queen.description>農業蜜蜂是艱苦的工作者，從他們的環境中提取穀物，並填充充滿奇怪的未分化種子的蜂巢。 這些蜜蜂將需要一個生長區，附近至少有一株玉米植物可以完成它們的工作。\n \nBee特性：\n \n生產時間：16小時\n夜間活動：沒有\nPluviophile：是\n需要非常的植物或所需資源：玉米 植物\n最高溫度：5ºC\n最高溫度：25ºC</RB_Bee_Agricultural_Queen.description> 
+
+	<RB_Bee_Agricultural_Drone.label>農業的 雄蜂</RB_Bee_Agricultural_Drone.label>
+	<RB_Bee_Agricultural_Queen.label>農業的 女王蜂</RB_Bee_Agricultural_Queen.label>
+
+	<!--=============== Bittersweet ====================-->
+
+	<RB_Bee_Bittersweet_Drone.description>像巧克力一樣苦甜的蜜蜂。 我的意思是，誰沒有？ 怪物，那是誰。 但苦樂參半的蜜蜂*非常喜歡它，他們喜歡用它來梳理它們。\n \nBee特性：\n \n生產時間：32小時\n夜間活動：沒有\nPluviophile：否\n需要不尋常的植物或資源：沒有 n最低溫度：0ºC\n最高溫度：30ºC</RB_Bee_Bittersweet_Drone.description> 
+	<RB_Bee_Bittersweet_Queen.description>像巧克力一樣苦甜的蜜蜂。 我的意思是，誰沒有？ 怪物，那是誰。 但苦樂參半的蜜蜂*非常喜歡它，他們喜歡用它來梳理它們。\n \nBee特性：\n \n生產時間：32小時\n夜間活動：沒有\nPluviophile：否\n需要不尋常的植物或資源：沒有 n最低溫度：0ºC\n最高溫度：30ºC</RB_Bee_Bittersweet_Queen.description> 
+
+	<RB_Bee_Bittersweet_Drone.label>苦樂參半 雄蜂</RB_Bee_Bittersweet_Drone.label>
+	<RB_Bee_Bittersweet_Queen.label>苦樂參半 女王蜂</RB_Bee_Bittersweet_Queen.label>
+
+	<!--=============== Lactic ====================-->
+
+	<RB_Bee_Lactic_Drone.description>乳酸是哺乳動物的一部分，是部分昆蟲。 因此，他們用牛奶代替蜂蜜來餵養他們的幼蟲，同時又可愛又噁心。\n \nBee特性：\n \n生產時間：24小時\n夜間活動：沒有\n親血微生物：沒有\n需要不尋常的植物或資源 ：否\n最低溫度：0ºC\n最高溫度：30ºC</RB_Bee_Lactic_Drone.description> 
+	<RB_Bee_Lactic_Queen.description>乳酸是哺乳動物的一部分，是部分昆蟲。 因此，他們用牛奶代替蜂蜜來餵養他們的幼蟲，同時又可愛又噁心。\n \nBee特性：\n \n生產時間：24小時\n夜間活動：沒有\n親血微生物：沒有\n需要不尋常的植物或資源 ：否\n最低溫度：0ºC\n最高溫度：30ºC</RB_Bee_Lactic_Queen.description> 
+
+	<RB_Bee_Lactic_Drone.label>乳酸 雄蜂</RB_Bee_Lactic_Drone.label>
+	<RB_Bee_Lactic_Queen.label>乳酸 女王蜂</RB_Bee_Lactic_Queen.label>
+
+	<!--=============== Egglaying ====================-->
+
+	<RB_Bee_Egglaying_Drone.description>下蛋蜜蜂是部分雞，部分昆蟲。 因此，它們不是在蜂窩內的容器中種植它們的幼蟲，而是產下小雞蛋，幼蟲從它們孵化出來。\n \nBee特性：\n \n生產時間：24小時\n夜間活動：沒有\nPluviophile：No \nUnusual 所需的植物或資源：否\n最高溫度：0ºC\n最高溫度：30ºC</RB_Bee_Egglaying_Drone.description> 
+	<RB_Bee_Egglaying_Queen.description>下蛋蜜蜂是部分雞，部分昆蟲。 因此，它們不是在蜂窩內的容器中種植它們的幼蟲，而是產下小雞蛋，幼蟲從它們孵化出來。\n \nBee特性：\n \n生產時間：24小時\n夜間活動：沒有\nPluviophile：No \nUnusual 所需的植物或資源：否\n最高溫度：0ºC\n最高溫度：30ºC</RB_Bee_Egglaying_Queen.description> 
+
+	<RB_Bee_Egglaying_Drone.label>下蛋 雄蜂</RB_Bee_Egglaying_Drone.label>
+	<RB_Bee_Egglaying_Queen.label>下蛋 女王蜂</RB_Bee_Egglaying_Queen.label>
+
+	<!--========== Tier 3: Tech Branch - From Technological Bees ==========-->	
+
+	<!--=============== Electronic ====================-->
+
+	<RB_Bee_Electronic_Drone.description>電子蜜蜂是部分機器，配有生物機械齒輪，可以毫不費力地在空中滑行。 他們擅長從周圍環境中提取少量銅，並在其蜂巢內部創造工業成分。\n \nBee特性：\n \n生產時間：72小時\n夜間活動：否\n親血微生物：否\n需要不尋常的植物或資源：否 \n最低溫度：-10ºC\n最高溫度：45ºC</RB_Bee_Electronic_Drone.description> 
+	<RB_Bee_Electronic_Queen.description>電子蜜蜂是部分機器，配有生物機械齒輪，可以毫不費力地在空中滑行。 他們擅長從周圍環境中提取少量銅，並在其蜂巢內部創造工業成分。\n \nBee特性：\n \n生產時間：72小時\n夜間活動：否\n親血微生物：否\n需要不尋常的植物或資源：否 \n最低溫度：-10ºC\n最高溫度：45ºC</RB_Bee_Electronic_Queen.description> 
+
+	<RB_Bee_Electronic_Drone.label>電子 雄蜂</RB_Bee_Electronic_Drone.label>
+	<RB_Bee_Electronic_Queen.label>電子 女王蜂</RB_Bee_Electronic_Queen.label>
+
+	<!--=============== Oily ====================-->
+
+	<RB_Bee_Oily_Drone.description>油性蜜蜂塗在一層燃料中，它們不斷產生。 他們的蜂巢也充滿了燃料，可以很容易地罐裝和用作Chemfuel。 他們需要一個附近有一點Chemfuel的庫存才能開始精煉它的化合物。\n \nBee特性：\n \n生產時間：48小時\n夜間活動：否\n親血微生物：否\n需要不尋常的植物或資源： Chemfuel \n最高溫度：0ºC\n最高溫度：30ºC</RB_Bee_Oily_Drone.description> 
+	<RB_Bee_Oily_Queen.description>油性蜜蜂塗在一層燃料中，它們不斷產生。 他們的蜂巢也充滿了燃料，可以很容易地罐裝和用作Chemfuel。 他們需要一個附近有一點Chemfuel的庫存才能開始精煉它的化合物。\n \nBee特性：\n \n生產時間：48小時\n夜間活動：否\n親血微生物：否\n需要不尋常的植物或資源： Chemfuel \n最高溫度：0ºC\n最高溫度：30ºC</RB_Bee_Oily_Queen.description> 
+
+	<RB_Bee_Oily_Drone.label>油性 雄蜂</RB_Bee_Oily_Drone.label>
+	<RB_Bee_Oily_Queen.label>油性 女王蜂</RB_Bee_Oily_Queen.label>
+
+	<!--=============== Plastic ====================-->
+
+	<RB_Bee_Plastic_Drone.description>塑料蜜蜂可以從附近提取微小的石膏分子，並將它們編織成蜂巢內的生物金屬晶格，從而復制更多的石膏。 他們需要一個附近有一點Plasteel的庫存才能開始編織。\n \nBee特性：\n \n生產時間：24小時\n夜間活動：否\nPluviophile：否\n需要不尋常的植物或資源：Plasteel \n最低溫度：0ºC\n最高溫度：30ºC</RB_Bee_Plastic_Drone.description> 
+	<RB_Bee_Plastic_Queen.description>塑料蜜蜂可以從附近提取微小的石膏分子，並將它們編織成蜂巢內的生物金屬晶格，從而復制更多的石膏。 他們需要一個附近有一點Plasteel的庫存才能開始編織。\n \nBee特性：\n \n生產時間：24小時\n夜間活動：否\nPluviophile：否\n需要不尋常的植物或資源：Plasteel \n最低溫度：0ºC\n最高溫度：30ºC</RB_Bee_Plastic_Queen.description> 
+
+	<RB_Bee_Plastic_Drone.label>塑料 雄蜂</RB_Bee_Plastic_Drone.label>
+	<RB_Bee_Plastic_Queen.label>塑料 女王蜂</RB_Bee_Plastic_Queen.label>
+
+	<!--========== Tier 4 and 5: Hard Drugs Branch - From Stoner and Psychic Bees ==========-->	
+
+	<!--=============== High ====================-->
+
+	<RB_Bee_High_Drone.description>高大的蜜蜂是癮君子，永遠在yayo上高。 這使得他們成為非常可怕的工作者，但是他們產生了大量恆定數量的藥物，這些藥物會累積在他們的蜂巢上。\n \nBee特性：\n \n生產時間：72小時\n夜間活動：否\n親血親屬：否\n異常植物或 所需資源：否\n最低溫度：0ºC\n最高溫度：40ºC</RB_Bee_High_Drone.description> 
+	<RB_Bee_High_Queen.description>高大的蜜蜂是癮君子，永遠在yayo上高。 這使得他們成為非常可怕的工作者，但是他們產生了大量恆定數量的藥物，這些藥物會累積在他們的蜂巢上。\n \nBee特性：\n \n生產時間：72小時\n夜間活動：否\n親血親屬：否\n異常植物或 所需資源：否\n最低溫度：0ºC\n最高溫度：40ºC</RB_Bee_High_Queen.description> 
+
+	<RB_Bee_High_Drone.label>高大的 雄蜂</RB_Bee_High_Drone.label>
+	<RB_Bee_High_Queen.label>高大的 女王蜂</RB_Bee_High_Queen.label>
+
+	<!--=============== Lucifer (from Luxurious) ====================-->
+
+	<RB_Bee_Lucifer_Drone.description>我希望你為自己感到自豪。 整個品種的蜜蜂沉迷於路西法合劑。 路西法蜜蜂是可能最慢的工作蜜蜂，它們不斷死亡和痛苦，但它們會產生大量恆定量的熒光素，它們會累積在它們的蜂巢上。\n \nBee特性：\n \n生產時間：240小時\n夜間活動： 否\nPluviophile：否\n需要不尋常的工廠或資源：否\n最高溫度：0ºC\n最高溫度：40ºC</RB_Bee_Lucifer_Drone.description> 
+	<RB_Bee_Lucifer_Queen.description>我希望你為自己感到自豪。 整個品種的蜜蜂沉迷於路西法合劑。 路西法蜜蜂是可能最慢的工作蜜蜂，它們不斷死亡和痛苦，但它們會產生大量恆定量的熒光素，它們會累積在它們的蜂巢上。\n \nBee特性：\n \n生產時間：240小時\n夜間活動： 否\nPluviophile：否\n需要不尋常的工廠或資源：否\n最高溫度：0ºC\n最高溫度：40ºC</RB_Bee_Lucifer_Queen.description> 
+
+	<RB_Bee_Lucifer_Drone.label>路西法 雄蜂</RB_Bee_Lucifer_Drone.label>
+	<RB_Bee_Lucifer_Queen.label>路西法 女王蜂</RB_Bee_Lucifer_Queen.label>
+
+	<!--========== Tier 4 and 5: Meals Branch - From Nutritious and Technological Bees ==========-->	
+
+	<!--=============== Culinary ====================-->
+
+	<RB_Bee_Culinary_Drone.description>烹飪蜜蜂喜歡做飯。 他們並不擅長，但可憐的小動物盡力做到最好。 他們的蜂巢有一種營養膏，可以加工成非常簡單的一餐。 不開胃，但可以食用。\n \nBee特性：\n \n生產時間：24小時\n夜間活動：否\n親血微生物：否\n需要特殊植物或所需資源：否\n最低溫度：0ºC\n最高溫度：30ºC</RB_Bee_Culinary_Drone.description> 
+	<RB_Bee_Culinary_Queen.description>烹飪蜜蜂喜歡做飯。 他們並不擅長，但可憐的小動物盡力做到最好。 他們的蜂巢有一種營養膏，可以加工成非常簡單的一餐。 不開胃，但可以食用。\n \nBee特性：\n \n生產時間：24小時\n夜間活動：否\n親血微生物：否\n需要特殊植物或所需資源：否\n最低溫度：0ºC\n最高溫度：30ºC</RB_Bee_Culinary_Queen.description> 
+
+	<RB_Bee_Culinary_Drone.label>烹飪 雄蜂</RB_Bee_Culinary_Drone.label>
+	<RB_Bee_Culinary_Queen.label>烹飪 女王蜂</RB_Bee_Culinary_Queen.label>
+
+	<!--=============== Chef (from Agricultural ====================-->
+
+	<RB_Bee_Chef_Drone.description>廚師蜜蜂真的喜歡做飯！ 而且他們也非常擅長！ 他們在蜂巢上積累了不同的成分，這些成分可以很容易地變成一種品質不錯的食物。\n \nBee特性：\n \n生產時間：24小時\n夜間活動：沒有\n親血親屬：沒有\n需要不尋常的植物或資源： 否\n最低溫度：0ºC\n最高溫度：30ºC</RB_Bee_Chef_Drone.description> 
+	<RB_Bee_Chef_Queen.description>廚師蜜蜂真的喜歡做飯！ 而且他們也非常擅長！ 他們在蜂巢上積累了不同的成分，這些成分可以很容易地變成一種品質不錯的食物。\n \nBee特性：\n \n生產時間：24小時\n夜間活動：沒有\n親血親屬：沒有\n需要不尋常的植物或資源： 否\n最低溫度：0ºC\n最高溫度：30ºC</RB_Bee_Chef_Queen.description> 
+
+	<RB_Bee_Chef_Drone.label>廚師 雄蜂</RB_Bee_Chef_Drone.label>
+	<RB_Bee_Chef_Queen.label>廚師 女王蜂</RB_Bee_Chef_Queen.label>
+
+	<!--========== Tier 4 and 5: Medicines Branch - From Swamp and Agricultural Bees ==========-->	
+
+	<!--=============== Medicinal ====================-->
+
+	<RB_Bee_Medicinal_Drone.description>藥用蜜蜂分泌一種鹽水溶液，可用作低級藥用藥膏。\n \nBee性狀：\n \n生產時間：48小時\n夜間活動：否\n親血微生物：否\n需要不尋常的植物或資源：否\n最低溫度 ：0ºC\n最高溫度：30ºC</RB_Bee_Medicinal_Drone.description> 
+	<RB_Bee_Medicinal_Queen.description>藥用蜜蜂分泌一種鹽水溶液，可用作低級藥用藥膏。\n \nBee性狀：\n \n生產時間：48小時\n夜間活動：否\n親血微生物：否\n需要不尋常的植物或資源：否\n最低溫度 ：0ºC\n最高溫度：30ºC</RB_Bee_Medicinal_Queen.description> 
+
+	<RB_Bee_Medicinal_Drone.label>藥用 雄蜂</RB_Bee_Medicinal_Drone.label>
+	<RB_Bee_Medicinal_Queen.label>藥用 女王蜂</RB_Bee_Medicinal_Queen.label>
+
+	<!--=============== Surgeon (from Technological ====================-->
+
+	<RB_Bee_Surgeon_Drone.description>外科醫生蜜蜂分泌更強大的藥用蜜蜂產生的生理鹽水溶液，但他們也必須在大學學習更多年。\n \nBe Traits：\n \n生產時間：125小時\n夜間活動：沒有\nPluviophile：沒有 n所需的異常植物或所需資源：否\n最高溫度：0ºC\n最高溫度：30ºC</RB_Bee_Surgeon_Drone.description> 
+	<RB_Bee_Surgeon_Queen.description>外科醫生蜜蜂分泌更強大的藥用蜜蜂產生的生理鹽水溶液，但他們也必須在大學學習更多年。\n \nBe Traits：\n \n生產時間：125小時\n夜間活動：沒有\nPluviophile：沒有 n所需的異常植物或所需資源：否\n最高溫度：0ºC\n最高溫度：30ºC</RB_Bee_Surgeon_Queen.description> 
+
+	<RB_Bee_Surgeon_Drone.label>外科醫生 雄蜂</RB_Bee_Surgeon_Drone.label>
+	<RB_Bee_Surgeon_Queen.label>外科醫生 女王蜂</RB_Bee_Surgeon_Queen.label>
+
+	<!--========== Tier 4 and 5: Cloths Branch - From Plastic and Alloy Bees ==========-->	
+
+	<!--=============== Synthetic ====================-->
+
+	<RB_Bee_Synthetic_Drone.description>合成蜜蜂從周圍的空氣中捕獲細小的纖維，並用天然的絲綢編織成合成纖維，它們在蜂巢中旋轉，準備收穫。 然而，他們需要附近的一些石膏！\n \nBee特性：\n \n生產時間：24小時\n夜間活動：否\n親氧劑：否\n需要異常的植物或所需資源：Plasteel \n最高溫度：0ºC\n最高溫度：30ºC</RB_Bee_Synthetic_Drone.description> 
+	<RB_Bee_Synthetic_Queen.description>合成蜜蜂從周圍的空氣中捕獲細小的纖維，並用天然的絲綢編織成合成纖維，它們在蜂巢中旋轉，準備收穫。 然而，他們需要附近的一些石膏！\n \nBee特性：\n \n生產時間：24小時\n夜間活動：否\n親氧劑：否\n需要異常的植物或所需資源：Plasteel \n最高溫度：0ºC\n最高溫度：30ºC</RB_Bee_Synthetic_Queen.description> 
+
+	<RB_Bee_Synthetic_Drone.label>合成纖維 雄蜂</RB_Bee_Synthetic_Drone.label>
+	<RB_Bee_Synthetic_Queen.label>合成纖維 女王蜂</RB_Bee_Synthetic_Queen.label>
+
+	<!--=============== Hyper (from Technological) ====================-->
+
+	<RB_Bee_Hyper_Drone.description>超級蜜蜂從它們周圍的空氣中捕獲微小的纖維，並用天然的絲綢編織它們以產生超線程，它們在蜂巢中旋轉，準備收穫。 然而，他們需要附近的一些石膏！\n \nBee特性：\n \n生產時間：24小時\n夜間活動：否\n親氧劑：否\n需要異常的植物或所需資源：Plasteel \n最高溫度：0ºC\n最高溫度：30ºC</RB_Bee_Hyper_Drone.description> 
+	<RB_Bee_Hyper_Queen.description>超級蜜蜂從它們周圍的空氣中捕獲微小的纖維，並用天然的絲綢編織它們以產生超線程，它們在蜂巢中旋轉，準備收穫。 然而，他們需要附近的一些石膏！\n \nBee特性：\n \n生產時間：24小時\n夜間活動：否\n親氧劑：否\n需要異常的植物或所需資源：Plasteel \n最高溫度：0ºC\n最高溫度：30ºC</RB_Bee_Hyper_Queen.description> 
+
+	<RB_Bee_Hyper_Drone.label>超級 雄蜂</RB_Bee_Hyper_Drone.label>
+	<RB_Bee_Hyper_Queen.label>超級 女王蜂</RB_Bee_Hyper_Queen.label>
+	
+
+</LanguageData>

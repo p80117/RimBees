@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+    <RB_WildHive_Temperate.label>野生蜂箱，溫帶</RB_WildHive_Temperate.label>
+	<RB_WildHive_Temperate.description>需要仔細操作這個蜂箱來提取蜜蜂而不傷害它們。 這個微妙的過程需要一個養蜂工作台。</RB_WildHive_Temperate.description>
+    <RB_WildHive_Mild.label>野生蜂箱，溫和</RB_WildHive_Mild.label>
+	<RB_WildHive_Mild.description>需要仔細操作這個蜂箱來提取蜜蜂而不傷害它們。 這個微妙的過程需要一個養蜂工作台。</RB_WildHive_Mild.description>
+  
+</LanguageData>

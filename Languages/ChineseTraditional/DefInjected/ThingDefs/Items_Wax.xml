@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+	<RB_Beeswax.label>蜂蠟</RB_Beeswax.label>
+	<RB_Beeswax.description>蜂蠟是蜜蜂生產的天然蠟。 蜂蠟有許多不同的用途。 蜂蜜主要用於製作蜂窩，它可用於生產食品，化妝品，藥品以及蠟燭。</RB_Beeswax.description>
+
+
+	<RB_Brittlewax.label>脆弱的蜂蠟</RB_Brittlewax.label>
+	<RB_Brittlewax.description>脆蜂蠟比普通蜂蠟的抗性要小得多，但它非常非常輕，可以在很短的時間內用它來製造。</RB_Brittlewax.description>
+
+
+	<RB_RedBeeswax.label>紅蜂蠟</RB_RedBeeswax.label>
+	<RB_RedBeeswax.description>紅蜂蠟略強於普通蠟，但其主要優點是不易燃。 但是，它可以在治療時用於製作cnadles。</RB_RedBeeswax.description>
+
+
+	<RB_WhiteBeeswax.label>白蜂蠟</RB_WhiteBeeswax.label>
+	<RB_WhiteBeeswax.description>白蜂蠟比普通蜂蠟強，不易燃燒。</RB_WhiteBeeswax.description>
+
+
+	<RB_BlackBeeswax.label>黑蜂蠟</RB_BlackBeeswax.label>
+	<RB_BlackBeeswax.description>黑色蜂蠟非常脆弱，但看起來很漂亮，所以它可以用來製作雕塑，蠟燭和其他裝飾品。</RB_BlackBeeswax.description>
+
+</LanguageData>

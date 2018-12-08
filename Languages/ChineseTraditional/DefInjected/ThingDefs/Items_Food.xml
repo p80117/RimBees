@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<RB_SimpleHoney.label>簡單的蜂蜜餐</RB_SimpleHoney.label>
+	<RB_SimpleHoney.description>通過在烤麵包片上撒上一些新鮮蜂蜜，加上一杯冷礦泉水製作的簡單餐。</RB_SimpleHoney.description>
+
+
+	<RB_FineHoney.label>很好的蜂蜜餐</RB_FineHoney.label>
+	<RB_FineHoney.description>一種複雜的菜餚，包括一個裝有蜂蜜醬的海綿蛋糕，配上加蜂蜜的檸檬冰沙。</RB_FineHoney.description>
+
+
+	<RB_LavishHoney.label>豐盛的蜂蜜餐</RB_LavishHoney.label>
+	<RB_LavishHoney.description>這道菜是烹飪藝術的傑作，包括一個蜂蜜填充的雙層糕點蛋糕，配上加蜂蜜的香草冰淇淋。</RB_LavishHoney.description>
+
+
+	<RB_HoneyedIcePop.label>蜜糖冰流行</RB_HoneyedIcePop.label>
+	<RB_HoneyedIcePop.description>美味的冰塊，蜂蜜味。 這是用來自北極蜂窩的霜和蜂蜜烹製的。</RB_HoneyedIcePop.description>
+
+
+	<RB_HoneyPreservedMeat.label>蜂蜜醃肉</RB_HoneyPreservedMeat.label>
+	<RB_HoneyPreservedMeat.description>用蜂蜜保存的烤肉。</RB_HoneyPreservedMeat.description>
+
+
+	<RB_HoneyPreservedVegetables.label>蜂蜜醃製蔬菜</RB_HoneyPreservedVegetables.label>
+	<RB_HoneyPreservedVegetables.description>用蜂蜜保存的烤蔬菜。</RB_HoneyPreservedVegetables.description>
+
+    
+
+</LanguageData>

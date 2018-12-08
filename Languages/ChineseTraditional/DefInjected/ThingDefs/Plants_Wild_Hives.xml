@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+	<!--============================ Trees ============================-->
+
+	<RB_Plant_Hive_Temperate.label>橡木樹與蜂巢</RB_Plant_Hive_Temperate.label>
+	<RB_Plant_Hive_Temperate.description>硬木樹。奧克斯需要很長時間才能成長，但他們的木材非常堅固，以至於“橡木”被用來作為多種文化中力量的隱喻。一棵巨大的溫帶蜂箱似乎附著在這棵樹的樹枝上。</RB_Plant_Hive_Temperate.description>
+
+	<RB_Plant_Hive_Mild.label>白楊樹與蜂巢</RB_Plant_Hive_Mild.label>
+	<RB_Plant_Hive_Mild.description>軟木樹，生長得非常快。不幸的是，它的木材很脆弱，因此它比硬木樹產生的材料更少。一棵溫和的蜂箱似乎附著在這棵樹的樹枝上。</RB_Plant_Hive_Mild.description>
+
+	<RB_Plant_Hive_Arctic.label>燒蜂巢的樹</RB_Plant_Hive_Arctic.label>
+	<RB_Plant_Hive_Arctic.description>與一些死的分支的一個被燒的樹樁。它很難看，沒有可用的木材。一棵溫和的蜂箱似乎附著在這棵樹的樹枝上。</RB_Plant_Hive_Arctic.description>
+
+	<RB_Plant_Hive_Icy.label>與蜂巢的死樹</RB_Plant_Hive_Icy.label>
+	<RB_Plant_Hive_Icy.description>這是一棵死樹，被極冷的溫度殺死。溫和的蜂箱似乎與之相關。</RB_Plant_Hive_Icy.description>
+
+	<RB_Plant_Hive_Jungle.label>cecropia樹與蜂巢</RB_Plant_Hive_Jungle.label>
+	<RB_Plant_Hive_Jungle.description>最常見的熱帶雨林樹木之一。 Cecropia生長非常快，但產生的木材很少。一棵溫和的蜂箱似乎附著在這棵樹的樹枝上。</RB_Plant_Hive_Jungle.description>
+
+	<RB_Plant_Hive_Swamp.label>柳樹與蜂巢</RB_Plant_Hive_Swamp.label>
+	<RB_Plant_Hive_Swamp.description>柳樹是增長最快的遮蔭樹之一，它提供了一個美麗的綠葉樹冠。它不會產生太多可用的木材。溫和的蜂箱似乎附著在這棵樹的樹枝上。</RB_Plant_Hive_Swamp.description>
+
+	<RB_Plant_Hive_Desert.label>仙人掌仙人掌與蜂巢</RB_Plant_Hive_Desert.label>
+	<RB_Plant_Hive_Desert.description>一種原生於乾旱地球環境的大型仙人掌。雖然它不是樹，但它產生的少量纖維材料可以像木頭一樣使用。溫帶蜂箱似乎與這個仙人掌有關。</RB_Plant_Hive_Desert.description>
+
+	<RB_Plant_Hive_Arid.label>仙人掌仙人掌與蜂巢</RB_Plant_Hive_Arid.label>
+	<RB_Plant_Hive_Arid.description>一種原生於乾旱地球環境的大型仙人掌。雖然它不是樹，但它產生的少量纖維材料可以像木頭一樣使用。一個溫和的蜂箱似乎附在它上面。</RB_Plant_Hive_Arid.description>
+
+</LanguageData>

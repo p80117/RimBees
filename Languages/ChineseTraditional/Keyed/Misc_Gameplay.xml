@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- Misc -->
+
+	<RB_DestroyedByTemp> 被溫度破壞了</RB_DestroyedByTemp>
+	
+	<RB_ExtractBees>提取蜜蜂</RB_ExtractBees>
+	<RB_ExtractBeesDesc>從蜂房中提取蜜蜂</RB_ExtractBeesDesc>
+	<RB_InsertBees>放入雄蜂</RB_InsertBees>
+	<RB_InsertBeesDesc>在這個蜂房裡放入雄蜂</RB_InsertBeesDesc>
+	<RB_NoBees>你沒有任何雄蜂!</RB_NoBees>
+
+	<RB_ExtractQueens>提取女王蜂</RB_ExtractQueens>
+	<RB_ExtractQueensDesc>從蜂房中提取女王蜂</RB_ExtractQueensDesc>
+	<RB_InsertQueens>放入女王蜂</RB_InsertQueens>
+	<RB_InsertQueensDesc>在這個蜂房放入女王蜂</RB_InsertQueensDesc>
+	<RB_NoQueens>你沒有任何女王蜂!</RB_NoQueens>
+
+	<RB_BeehouseContainsDrone>雄蜂</RB_BeehouseContainsDrone>
+	<RB_BeehouseContainsQueen>女王蜂</RB_BeehouseContainsQueen>
+	<RB_BeehouseNonePresent>沒有蜜蜂</RB_BeehouseNonePresent>
+	<RB_BeehouseCombProgress>蜂巢進度</RB_BeehouseCombProgress>
+	<RB_BeehouseCombNoProgress>因為蜜蜂失蹤而停止</RB_BeehouseCombNoProgress>
+	<RB_BeehouseCombNoProgressNight>因為夜間而停止</RB_BeehouseCombNoProgressNight>
+	<RB_BeehouseCombNoProgressRain>因為天氣惡劣而停止</RB_BeehouseCombNoProgressRain>
+	<RB_BeehouseCombNoProgressTemperature>由於溫度停止 </RB_BeehouseCombNoProgressTemperature>
+	<RB_BeehouseCombNoProgressPlants1>因缺席而停止 </RB_BeehouseCombNoProgressPlants1> 
+	<RB_BeehouseCombNoProgressPlants2> 在6個瓷磚半徑</RB_BeehouseCombNoProgressPlants2>
+
+
+	<GU_PlaceNextToBeeHouse>育雛室需要放置在蜂房附近</GU_PlaceNextToBeeHouse>
+	<GU_NoAdjacentBeehouse>警告：這個育雛室沒有相鄰的蜂房</GU_NoAdjacentBeehouse>
+	<GU_AdjacentBeehouseInactive>相鄰的蜂房現在不活躍</GU_AdjacentBeehouseInactive>
+	<GU_AdjacentBeehouseRunning>育雛室附屬於蜂房，偶爾會產生其中一種蜂物種的雄蜂和蟻后</GU_AdjacentBeehouseRunning>
+	<GU_BroodChamberProgress>進度:</GU_BroodChamberProgress>
+
+	<GU_PlaceNextToBeeHouseLeft>雜交室需要放置在蜂房附近</GU_PlaceNextToBeeHouseLeft>
+	<GU_NoAdjacentBeehouseHybridization>警告：這個雜交室沒有相鄰的蜂房</GU_NoAdjacentBeehouseHybridization>
+
+	<GU_AdjacentBeehouseRunningHybridization>雜交室連接到蜂房。 如果可能，它偶爾會產生變異皇后。 要製作雄蜂，請將女王插入蜂房並安裝育雛室</GU_AdjacentBeehouseRunningHybridization>
+	<GU_HybridMutationsRunning>突變是隨機的，發生在1到3天之間（目前正在運行）</GU_HybridMutationsRunning>
+	<GU_HybridMutationsStopped>突變是隨機的，發生在1到3天之間（目前停止）</GU_HybridMutationsStopped>
+	<RB_Hybrid>在雜交室中創造了一種新的突變蜜蜂！ 這種組合不會產生其他不同的突變。</RB_Hybrid>
+	<RB_FiveHybrids>在雜交室中創造了一種新的突變蜜蜂！ 該組合產生其他4種可能的突變。</RB_FiveHybrids>
+	<RB_FourHybrids>在雜交室中創造了一種新的突變蜜蜂！ 該組合產生其他3種可能的突變。</RB_FourHybrids>
+	<RB_ThreeHybrids>在雜交室中創造了一種新的突變蜜蜂！ 該組合產生其他2種可能的突變。</RB_ThreeHybrids>
+	<RB_NoHybrid>這種蜜蜂的組合不產生突變。 您應該考慮更換它們或移除雜交室！</RB_NoHybrid>
+
+
+	<!-- Mead -->
+
+	<RB_NoMeadMust>沒有蜂蜜酒</RB_NoMeadMust>
+	<RB_ContainsMeadMust>必須包含{0} / {1}蜂蜜酒。</RB_ContainsMeadMust>
+	<RB_ContainsMead>包含{0} / {1}蜂蜜酒。</RB_ContainsMead>
+
+
+	<!-- Bee Tags -->
+
+	<RB_Temperate_Drone_Tag>溫帶 雄蜂</RB_Temperate_Drone_Tag>
+	<RB_Mild_Drone_Tag>溫和 雄蜂</RB_Mild_Drone_Tag>
+	<RB_Hybrid_Drone_Tag>混合動力 雄蜂</RB_Hybrid_Drone_Tag>
+	<RB_Amalgam_Drone_Tag>汞合金 雄蜂</RB_Amalgam_Drone_Tag>
+
+	<RB_Alloy_Drone_Tag>合金 雄蜂</RB_Alloy_Drone_Tag>
+	<RB_Adaptive_Drone_Tag>自適應 雄蜂</RB_Adaptive_Drone_Tag>
+	<RB_Neutro_Drone_Tag>中性 雄蜂</RB_Neutro_Drone_Tag>
+	<RB_Nutritious_Drone_Tag>營養品 雄蜂</RB_Nutritious_Drone_Tag>
+	<RB_Technological_Drone_Tag>技術性 雄蜂</RB_Technological_Drone_Tag>
+
+	<RB_Arctic_Drone_Tag>北極 雄蜂</RB_Arctic_Drone_Tag>
+	<RB_Desert_Drone_Tag>沙漠 雄蜂</RB_Desert_Drone_Tag>
+	<RB_Swamp_Drone_Tag>沼澤 雄蜂</RB_Swamp_Drone_Tag>
+	<RB_Nocturnal_Drone_Tag>夜行性 雄蜂</RB_Nocturnal_Drone_Tag>
+
+	<RB_Argent_Drone_Tag>銀色 雄蜂</RB_Argent_Drone_Tag>
+	<RB_Aurum_Drone_Tag>金色 雄蜂</RB_Aurum_Drone_Tag>
+	<RB_Precious_Drone_Tag>寶石 雄蜂</RB_Precious_Drone_Tag>
+	<RB_Radioactive_Drone_Tag>放射性的 雄蜂</RB_Radioactive_Drone_Tag>
+
+	<RB_Tipsy_Drone_Tag>喝醉的 雄蜂</RB_Tipsy_Drone_Tag>
+	<RB_Luxurious_Drone_Tag>豪華的 雄蜂</RB_Luxurious_Drone_Tag>
+	<RB_Psychic_Drone_Tag>靈魂的 雄蜂</RB_Psychic_Drone_Tag>
+	<RB_Stoner_Drone_Tag>吸大麻的 雄蜂</RB_Stoner_Drone_Tag>
+
+	<RB_Agricultural_Drone_Tag>農業的 雄蜂</RB_Agricultural_Drone_Tag>
+	<RB_Bittersweet_Drone_Tag>又苦又甜的 雄蜂</RB_Bittersweet_Drone_Tag>
+	<RB_Lactic_Drone_Tag>乳酸 雄蜂</RB_Lactic_Drone_Tag>
+	<RB_Egglaying_Drone_Tag>產卵 雄蜂</RB_Egglaying_Drone_Tag>
+
+	<RB_Electronic_Drone_Tag>電子 雄蜂</RB_Electronic_Drone_Tag>
+	<RB_Oily_Drone_Tag>油膩 雄蜂</RB_Oily_Drone_Tag>
+	<RB_Plastic_Drone_Tag>塑料 雄蜂</RB_Plastic_Drone_Tag>
+
+	<RB_High_Drone_Tag>高 雄蜂</RB_High_Drone_Tag>
+	<RB_Lucifer_Drone_Tag>路西法 雄蜂</RB_Lucifer_Drone_Tag>
+	<RB_Medicinal_Drone_Tag>藥用 雄蜂</RB_Medicinal_Drone_Tag>
+	<RB_Surgeon_Drone_Tag>外科醫生 雄蜂</RB_Surgeon_Drone_Tag>
+	<RB_Culinary_Drone_Tag>烹飪 雄蜂</RB_Culinary_Drone_Tag>
+	<RB_Chef_Drone_Tag>廚師 雄蜂</RB_Chef_Drone_Tag>
+	<RB_Synthetic_Drone_Tag>合成的 雄蜂</RB_Synthetic_Drone_Tag>
+	<RB_Hyper_Drone_Tag>超 雄蜂</RB_Hyper_Drone_Tag>
+
+
+
+
+	<RB_Temperate_Queen_Tag>溫帶 女王蜂</RB_Temperate_Queen_Tag>
+	<RB_Mild_Queen_Tag>溫和 女王蜂</RB_Mild_Queen_Tag>
+	<RB_Hybrid_Queen_Tag>混合動力 女王蜂</RB_Hybrid_Queen_Tag>
+	<RB_Amalgam_Queen_Tag>汞合金 女王蜂</RB_Amalgam_Queen_Tag>
+
+	<RB_Alloy_Queen_Tag>合金 女王蜂</RB_Alloy_Queen_Tag>
+	<RB_Adaptive_Queen_Tag>自適應 女王蜂</RB_Adaptive_Queen_Tag>
+	<RB_Neutro_Queen_Tag>中性 女王蜂</RB_Neutro_Queen_Tag>
+	<RB_Nutritious_Queen_Tag>營養品 女王蜂</RB_Nutritious_Queen_Tag>
+	<RB_Technological_Queen_Tag>技術性 女王蜂</RB_Technological_Queen_Tag>
+
+	<RB_Arctic_Queen_Tag>北極 女王蜂</RB_Arctic_Queen_Tag>
+	<RB_Desert_Queen_Tag>沙漠 女王蜂</RB_Desert_Queen_Tag>
+	<RB_Swamp_Queen_Tag>沼澤 女王蜂</RB_Swamp_Queen_Tag>
+	<RB_Nocturnal_Queen_Tag>夜行性 女王蜂</RB_Nocturnal_Queen_Tag>
+
+	<RB_Argent_Queen_Tag>銀色 女王蜂</RB_Argent_Queen_Tag>
+	<RB_Aurum_Queen_Tag>金色 女王蜂</RB_Aurum_Queen_Tag>
+	<RB_Precious_Queen_Tag>寶石 女王蜂</RB_Precious_Queen_Tag>
+	<RB_Radioactive_Queen_Tag>放射性的 女王蜂</RB_Radioactive_Queen_Tag>
+
+	<RB_Tipsy_Queen_Tag>喝醉的 女王蜂</RB_Tipsy_Queen_Tag>
+	<RB_Luxurious_Queen_Tag>豪華的 女王蜂</RB_Luxurious_Queen_Tag>
+	<RB_Psychic_Queen_Tag>靈魂的 女王蜂</RB_Psychic_Queen_Tag>
+	<RB_Stoner_Queen_Tag>吸大麻的 女王蜂</RB_Stoner_Queen_Tag>
+
+	<RB_Agricultural_Queen_Tag>農業的 女王蜂</RB_Agricultural_Queen_Tag>
+	<RB_Bittersweet_Queen_Tag>又苦又甜的 女王蜂</RB_Bittersweet_Queen_Tag>
+	<RB_Lactic_Queen_Tag>乳酸 女王蜂</RB_Lactic_Queen_Tag>
+	<RB_Egglaying_Queen_Tag>產卵 女王蜂</RB_Egglaying_Queen_Tag>
+
+	<RB_Electronic_Queen_Tag>電子 女王蜂</RB_Electronic_Queen_Tag>
+	<RB_Oily_Queen_Tag>油膩 女王蜂</RB_Oily_Queen_Tag>
+	<RB_Plastic_Queen_Tag>塑料 女王蜂</RB_Plastic_Queen_Tag>
+
+	<RB_High_Queen_Tag>高 女王蜂</RB_High_Queen_Tag>
+	<RB_Lucifer_Queen_Tag>路西法 女王蜂</RB_Lucifer_Queen_Tag>
+	<RB_Medicinal_Queen_Tag>藥用 女王蜂</RB_Medicinal_Queen_Tag>
+	<RB_Surgeon_Queen_Tag>外科醫生 女王蜂</RB_Surgeon_Queen_Tag>
+	<RB_Culinary_Queen_Tag>烹飪 女王蜂</RB_Culinary_Queen_Tag>
+	<RB_Chef_Queen_Tag>廚師 女王蜂</RB_Chef_Queen_Tag>
+	<RB_Synthetic_Queen_Tag>合成的 女王蜂</RB_Synthetic_Queen_Tag>
+	<RB_Hyper_Queen_Tag>超 女王蜂</RB_Hyper_Queen_Tag>
+
+</LanguageData>
