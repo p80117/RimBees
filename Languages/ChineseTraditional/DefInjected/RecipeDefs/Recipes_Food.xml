@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+
+	<RB_PreserveMeat.label>用蜂蜜保存肉</RB_PreserveMeat.label>
+	<RB_PreserveMeat.description>用蜂蜜來保存小塊烤肉，避免肉類腐敗.</RB_PreserveMeat.description>
+	<RB_PreserveMeat.jobString>烹飪醃製肉類.</RB_PreserveMeat.jobString>
+	
+	<RB_PreserveVegetables.label>用蜂蜜保存蔬菜</RB_PreserveVegetables.label>
+	<RB_PreserveVegetables.description>用蜂蜜保存小塊烤蔬菜，避免食物腐敗.</RB_PreserveVegetables.description>
+	<RB_PreserveVegetables.jobString>烹飪醃製蔬菜.</RB_PreserveVegetables.jobString>
+		
+		
+</LanguageData>
+		

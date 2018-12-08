@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<RB_Temperate_Honeycomb.label>溫帶蜂窩</RB_Temperate_Honeycomb.label>
+<RB_Temperate_Honeycomb.description>這是一種由溫帶蜜蜂生產的蜂窩。溫帶蜜蜂是最常見的蜜蜂，來自地球的蜜蜂Apis Mellifera。 蜂窩可以在蜂蜜提取器中進行處理，以獲得蜂蜜和蜂蠟。</RB_Temperate_Honeycomb.description>
+
+
+<RB_Mild_Honeycomb.label>溫和的蜂窩狀</RB_Mild_Honeycomb.label>
+<RB_Mild_Honeycomb.description>這是由溫和的蜜蜂生產的蜂窩。溫和的蜜蜂是適應平均溫度和溫和氣候的蜜蜂，它們產生的蜂蜜很少。 蜂窩可以在蜂蜜提取器中進行處理，以獲得蜂蜜和蜂蠟。</RB_Mild_Honeycomb.description>
+
+
+<RB_Hybrid_Honeycomb.label>混合蜂窩</RB_Hybrid_Honeycomb.label>
+<RB_Hybrid_Honeycomb.description>這是由混合蜜蜂生產的蜂窩。雜交蜜蜂具有溫和和溫和蜜蜂的混合特性，是為群體創造專門蜜蜂的第一步。 蜂窩可以在蜂蜜提取器中進行處理，以獲得蜂蜜和白蜂蠟。</RB_Hybrid_Honeycomb.description>
+
+
+<RB_Amalgam_Honeycomb.label>汞合金蜂窩</RB_Amalgam_Honeycomb.label>
+<RB_Amalgam_Honeycomb.description>這是由汞合金蜜蜂生產的蜂窩。汞合金蜂是改良的雜交種，所有專門的蜜蜂都是從它們分支出來的。它們的工作速度比基本蜜蜂快一點。 蜂窩可以在蜂蜜提取器中進行處理，以獲得藍色蜂蜜和白色蜂蠟。</RB_Amalgam_Honeycomb.description>
+
+
+<RB_Alloy_Honeycomb.label>合金蜂窩</RB_Alloy_Honeycomb.label>
+<RB_Alloy_Honeycomb.description>這是由合金蜜蜂生產的蜂窩。合金蜜蜂能夠生產含金屬化合物的蜂窩。不過，他們的蜂蜜產量很少。基本的合金蜂生產鋼鍍蜂窩。 蜂窩可以在蜂蜜提取器中進行處理，以獲得蜂蜜，蜂蠟和鋼鐵。</RB_Alloy_Honeycomb.description>
+
+
+<RB_Adaptive_Honeycomb.label>自適應蜂窩</RB_Adaptive_Honeycomb.label>
+<RB_Adaptive_Honeycomb.description>這是由適應性蜜蜂生產的蜂窩。適應性蜜蜂對它們所處的生物群系的條件影響不大。因此，它們可以在低溫和高溫下更好地工作，並且它們的工作速度非常快。 蜂窩可以在蜂蜜提取器中進行處理，以獲得不腐爛和蜂蠟的適應性蜂蜜。</RB_Adaptive_Honeycomb.description>
+
+
+<RB_Neutro_Honeycomb.label>中性蜂窩</RB_Neutro_Honeycomb.label>
+<RB_Neutro_Honeycomb.description>這是由中性蜜蜂生產的蜂窩。 胺蜜蜂從附近的地方捕獲殘留的化合物，並將它們儲存在蜂巢中，生成中性胺。 蜂窩可以在蜂蜜提取器中進行處理，以獲得蜂蜜，蜂蠟和中性胺。</RB_Neutro_Honeycomb.description>
+
+
+<RB_Nutritious_Honeycomb.label>營養蜂窩</RB_Nutritious_Honeycomb.label>
+<RB_Nutritious_Honeycomb.description>這是一種由營養蜜蜂生產的蜂窩。營養豐富的蜜蜂會產生滴血的肉質蜂窩。這真是令人作嘔......蜂巢可以用蜂蜜提取器來製作蜂蜜，蜂蠟和肉類。</RB_Nutritious_Honeycomb.description>
+
+
+<RB_Technological_Honeycomb.label>技術蜂窩</RB_Technological_Honeycomb.label>
+<RB_Technological_Honeycomb.description>這是由技術蜜蜂生產的蜂窩。技術蜜蜂是蜜蜂的一部分，是部分機器。它們可以進一步雜交成蜜蜂，提供化學燃料，組分和其他技術奇蹟。但更重要的是，他們生產Bio Interface Components，用於建造先進的蜂房。 蜂窩可以在蜂蜜提取器中進行處理，以獲得蜂蠟和生物界面組件。</RB_Technological_Honeycomb.description>
+
+
+<RB_Arctic_Honeycomb.label>北極蜂窩</RB_Arctic_Honeycomb.label>
+<RB_Arctic_Honeycomb.description>這是一種由北極蜜蜂生產的蜂窩。北極蜜蜂適應了邊緣較冷的氣候，它們的蜂巢以等量儲存蜂蜜和霜凍。 蜂窩可以在蜂蜜提取器中進行處理，以獲得蜂蜜，蜂蠟和冰棒。</RB_Arctic_Honeycomb.description>
+
+
+<RB_Desert_Honeycomb.label>沙漠蜂窩</RB_Desert_Honeycomb.label>
+<RB_Desert_Honeycomb.description>這是一種由沙漠蜜蜂生產的蜂窩。它的蠟具有乾燥的質地，部分是用周圍的沙子建造的。 蜂窩可以在蜂蜜提取器中進行處理，以獲得蜂蜜，蜂蠟和龍舌蘭。</RB_Desert_Honeycomb.description>
+
+
+<RB_Swamp_Honeycomb.label>沼澤蜂窩</RB_Swamp_Honeycomb.label>
+<RB_Swamp_Honeycomb.description>這是由沼澤蜜蜂生產的蜂窩。凝膠狀物質覆蓋整個梳子，似乎是為了保護其內容物免受環境的高濕度影響。 蜂窩可以在蜂蜜提取器中進行處理，以獲得蜂蜜，蜂蠟和蘑菇。</RB_Swamp_Honeycomb.description>
+
+
+<RB_Nocturnal_Honeycomb.label>夜間蜂窩</RB_Nocturnal_Honeycomb.label>
+<RB_Nocturnal_Honeycomb.description>這是一種由夜間蜜蜂生產的蜂窩。漆黑，冷卻。 蜂窩可以在蜂蜜提取器中進行處理，以獲得黑蜂蜜和黑蜂蠟。</RB_Nocturnal_Honeycomb.description>
+
+
+<RB_Argent_Honeycomb.label>銀色蜂窩</RB_Argent_Honeycomb.label>
+<RB_Argent_Honeycomb.description>這是由銀色蜜蜂生產的蜂窩。它的表面非常閃亮，幾乎可以用作鏡子！ 蜂窩可以在蜂蜜提取器中進行處理，以獲得蜂蜜，蜂蠟和銀。</RB_Argent_Honeycomb.description>
+
+
+<RB_Aurum_Honeycomb.label>金礦蜂窩</RB_Aurum_Honeycomb.label>
+<RB_Aurum_Honeycomb.description>這是由金蜂生產的蜂窩。它的黃金表面可能在任何市場都能獲得不錯的價格，但從中提取黃金要好得多。 蜂窩可以在蜂蜜提取器中進行處理，以獲得蜂蜜，蜂蠟和黃金。</RB_Aurum_Honeycomb.description>
+
+
+<RB_Precious_Honeycomb.label>珍貴的蜂窩</RB_Precious_Honeycomb.label>
+<RB_Precious_Honeycomb.description>這是一種由珍貴的蜜蜂生產的蜂窩。閃閃發光的！ 蜂窩可以在蜂蜜提取器中進行處理，以獲得蜂蜜，蜂蠟和玉石。</RB_Precious_Honeycomb.description>
+
+
+<RB_Radioactive_Honeycomb.label>放射性蜂窩</RB_Radioactive_Honeycomb.label>
+<RB_Radioactive_Honeycomb.description>這是一種由放射性蜜蜂生產的蜂窩。考慮到所有事情，你的殖民者很幸運，編程放射性系統遠遠超出了這個模式的範圍。 蜂窩可以在蜂蜜提取器中進行處理，以獲得蜂蜜，蜂蠟和鈾。</RB_Radioactive_Honeycomb.description>
+
+
+<RB_Tipsy_Honeycomb.label>醉酒的蜂窩</RB_Tipsy_Honeycomb.label>
+<RB_Tipsy_Honeycomb.description>這是一個由醉的蜜蜂生產的蜂窩。它被麥芽汁浸透，然後可以發酵成啤酒。 蜂窩可以在蜂蜜提取器中進行處理，以獲得蜂蜜，蜂蠟和麥芽汁。</RB_Tipsy_Honeycomb.description>
+
+
+<RB_Luxurious_Honeycomb.label>豪華蜂窩</RB_Luxurious_Honeycomb.label>
+<RB_Luxurious_Honeycomb.description>這是一種由豪華蜜蜂生產的蜂窩，能夠以驚人的方式將花粉濃縮，將其轉化為ambrosia，這是一種在Rim上廣泛使用的非常溫和的藥物。 蜂窩可以在蜂蜜提取器中進行處理，以獲得蜂蜜，蜂蠟和蜂蜜</RB_Luxurious_Honeycomb.description>
+
+
+<RB_Psychic_Honeycomb.label>通靈蜂窩</RB_Psychic_Honeycomb.label>
+<RB_Psychic_Honeycomb.description>這是一個由精神蜜蜂生產的蜂窩，它知道一切，看到一切。不是因為他們是明智的古代先知，而是因為他們的小身體充滿了精神化合物。蜂窩可以在蜂蜜提取器中進行，以獲得蜂蜜，蜂蠟和精神葉。</RB_Psychic_Honeycomb.description>
+
+
+<RB_Stoner_Honeycomb.label>斯托納蜂窩</RB_Stoner_Honeycomb.label>
+<RB_Stoner_Honeycomb.description>這是由Stoner蜜蜂生產的蜂窩，聞起來像阿姆斯特丹的某些酒店。蜂窩可以在蜂蜜提取器中進行，以獲得蜂蜜，蜂蠟和菸葉。</RB_Stoner_Honeycomb.description>
+
+
+<RB_Agricultural_Honeycomb.label>農業蜂窩</RB_Agricultural_Honeycomb.label>
+<RB_Agricultural_Honeycomb.description>這是一種由農業蜜蜂生產的蜂窩，它是堅硬的工人，從他們的環境中提取穀物，並填充他們充滿奇怪的未分化種子的蜂窩。蜂窩可以在蜂蜜提取器中進行，以獲得蜂蜜，蜂蠟和蔬菜。</RB_Agricultural_Honeycomb.description>
+
+
+<RB_Bittersweet_Honeycomb.label>苦甜的蜂窩</RB_Bittersweet_Honeycomb.label>
+<RB_Bittersweet_Honeycomb.description>這是一個由Bittersweet蜜蜂生產的蜂窩，他們喜歡巧克力，並嘗試用它填充梳子。蜂窩可以在蜂蜜提取器中進行，以獲得蜂蜜，蜂蠟和巧克力。</RB_Bittersweet_Honeycomb.description>
+
+
+<RB_Lactic_Honeycomb.label>乳酸蜂窩</RB_Lactic_Honeycomb.label>
+<RB_Lactic_Honeycomb.description>這是由乳酸蜜蜂生產的蜂窩。它充滿了一種奇怪的液體，可以被認為是牛奶，如果你忽略它的起源...蜂窩可以在蜂蜜提取器進行，以獲得蜂蜜，蜂蠟和牛奶。</RB_Lactic_Honeycomb.description>
+
+
+<RB_Egglaying_Honeycomb.label>蛋蜂窩</RB_Egglaying_Honeycomb.label>
+<RB_Egglaying_Honeycomb.description>這是Egglaying蜜蜂生產的蜂窩。它充滿了許多非常小的球體，可以被認為是普通的蛋，如果你忽略了它們的起源......蜂窩可以在蜂蜜提取器中進行，以獲得蜂蜜，蜂蠟和雞蛋。</RB_Egglaying_Honeycomb.description>
+
+
+<RB_Electronic_Honeycomb.label>電子蜂窩</RB_Electronic_Honeycomb.label>
+<RB_Electronic_Honeycomb.description>這是由電子蜜蜂生產的蜂窩。它甚至看起來都不是有機的！蜂窩可以在蜂蜜提取器中進行，以獲得蜂蜜，蜂蠟和工業成分。</RB_Electronic_Honeycomb.description>
+
+
+<RB_Oily_Honeycomb.label>油性蜂窩</RB_Oily_Honeycomb.label>
+<RB_Oily_Honeycomb.description>這是由油性蜜蜂生產的蜂窩。它完全浸透在化學溶液中，可以很容易地提取並轉化為Chemfuel。蜂窩可以在蜂蜜提取器中進行，以獲得蜂蜜，蜂蠟和化學燃料。</RB_Oily_Honeycomb.description>
+
+
+<RB_Plastic_Honeycomb.label>塑料蜂窩</RB_Plastic_Honeycomb.label>
+<RB_Plastic_Honeycomb.description>這是一種由塑料蜜蜂生產的蜂窩。它似乎是用天然的石膏格子加固的。蜂窩可以在蜂蜜提取器中進行，以獲得蜂蜜，蜂蠟和石膏。</RB_Plastic_Honeycomb.description>
+
+
+<RB_High_Honeycomb.label>高蜂窩</RB_High_Honeycomb.label>
+<RB_High_Honeycomb.description>這是由高蜂生產的蜂窩。高大的蜜蜂是癮君子，永遠在yayo上高。這使得他們成為非常可怕的工人，但是他們產生了大量恆定數量的藥物，這些藥物會累積在他們的梳子上。蜂窩可以在蜂蜜提取器中進行，以獲得蜂蜜，蜂蠟和yayo。</RB_High_Honeycomb.description>
+
+
+<RB_Lucifer_Honeycomb.label>lucifer蜂窩</RB_Lucifer_Honeycomb.label>
+<RB_Lucifer_Honeycomb.description>這是由路西法蜜蜂生產的蜂窩。整個品種的蜜蜂沉迷於luciferium。路西法蜜蜂是可能的最慢的工作蜜蜂，它們不斷死亡和痛苦，但它們會產生大量恆定量的熒光素，這些熒光素會累積在它們的梳子上。蜂窩可以在蜂蜜提取器中進行，以獲得蜂蜜，蜂蠟和熒光粉。</RB_Lucifer_Honeycomb.description>
+
+
+<RB_Culinary_Honeycomb.label>烹飪蜂窩</RB_Culinary_Honeycomb.label>
+<RB_Culinary_Honeycomb.description>這是由烹飪蜜蜂生產的蜂窩。烹飪蜜蜂喜歡做飯。他們並不擅長，但可憐的小動物盡力做到最好。他們的梳子有一種營養膏，可以加工成非常簡單的一餐。不開胃，但可食用。蜂窩可以在蜂蜜提取器中進行，以獲得蜂蜜，蜂蠟和營養膏。</RB_Culinary_Honeycomb.description>
+
+
+<RB_Chef_Honeycomb.label>廚師蜂窩</RB_Chef_Honeycomb.label>
+<RB_Chef_Honeycomb.description>這是由主廚蜜蜂生產的蜂窩。廚師蜜蜂真的喜歡做飯！而且他們也非常擅長！它們在梳子上積累了不同的成分，這些成分很容易變成質量上乘的食物。不開胃，但可食用。蜂窩可以在蜂蜜提取器中進行，以獲得蜂蜜，蜂蠟和精美的食物。</RB_Chef_Honeycomb.description>
+
+
+<RB_Medicinal_Honeycomb.label>藥用蜂窩</RB_Medicinal_Honeycomb.label>
+<RB_Medicinal_Honeycomb.description>這是由藥用蜜蜂生產的蜂窩。藥用蜜蜂分泌一種鹽溶液，可用作低級藥用藥膏。不開胃，但可食用。蜂窩可以在蜂蜜提取器中進行，以獲得蜂蜜，蜂蠟和草藥。</RB_Medicinal_Honeycomb.description>
+
+
+<RB_Surgeon_Honeycomb.label>外科醫生蜂窩</RB_Surgeon_Honeycomb.label>
+<RB_Surgeon_Honeycomb.description>這是由外科醫生蜜蜂生產的蜂窩。外科醫生蜜蜂分泌更強大的藥用蜜蜂生成的鹽水溶液，但他們還必須在大學學習更多年。蜂窩可以在蜂蜜提取器中進行，以獲得蜂蜜，蜂蠟和超級藥物。</RB_Surgeon_Honeycomb.description>
+
+
+<RB_Synthetic_Honeycomb.label>合成蜂窩</RB_Synthetic_Honeycomb.label>
+<RB_Synthetic_Honeycomb.description>這是一種由合成蜜蜂生產的蜂窩。合成蜜蜂從周圍的空氣中捕獲細小的纖維，並用天然的絲綢編織成合成纖維，它們在梳子中旋轉，準備收穫。蜂窩可以在蜂蜜提取器中進行，以獲得蜂蜜，蜂蠟和合成物。</RB_Synthetic_Honeycomb.description>
+
+
+<RB_Hyper_Honeycomb.label>超蜂窩</RB_Hyper_Honeycomb.label>
+<RB_Hyper_Honeycomb.description>這是由Hyper bees生產的蜂窩。較小的蜜蜂從它們周圍的空氣中捕獲細小的纖維，並用天然的絲綢編織它們以產生超線程，它們在梳子中旋轉，準備收穫。蜂窩可以在蜂蜜提取器中進行，以獲得蜂蜜，蜂蠟和超織物。</RB_Hyper_Honeycomb.description>
+
+  
+</LanguageData>

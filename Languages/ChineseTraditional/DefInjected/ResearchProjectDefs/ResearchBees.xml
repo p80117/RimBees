@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+  <RB_BasicBeekeeping.label>基本的養蜂</RB_BasicBeekeeping.label>
+  <RB_BasicBeekeeping.description>研究養蜂的基礎知識。 通過這項研究，您可以開始嘗試最基本的蜜蜂品種，溫和和溫帶（1級），從野生蕁麻疹中提取。 為了獲得新的蜜蜂品種，您需要進一步研究。</RB_BasicBeekeeping.description>
+
+  <RB_BeeBreeding.label>蜜蜂繁殖</RB_BeeBreeding.label>
+  <RB_BeeBreeding.description>研究蜜蜂育種，以獲得您已經擁有的蜜蜂品種的新成員。 當連接到養蜂場時，育雛室產生隨機無人機和蜂房中存在的一個品種的蟻后。 這對增加蜜蜂總數非常有用！</RB_BeeBreeding.description>
+
+  <RB_BeeHybridizing.label>蜜蜂雜交</RB_BeeHybridizing.label>
+  <RB_BeeHybridizing.description>研究蜜蜂雜交以獲得新的蜜蜂品種。 當連接到蜂房時，雜交室通過混合蜂房中存在的那些基因來產生新的雜交種的蟻后。 如果蜜蜂房中的蜜蜂組合不產生雜交種，或者它是否隨機產生多種雜交種，蜂房會提醒您！</RB_BeeHybridizing.description>
+
+  <RB_MeadBrewing.label>蜂蜜釀造</RB_MeadBrewing.label>
+  <RB_MeadBrewing.description>研究mead釀造能夠將蜂蜜和水的混合物發酵成蜂蜜酒。 米德是一種溫和的酒精飲品。</RB_MeadBrewing.description>
+
+  <RB_BeeswaxLighting.label>蜂蠟照明</RB_BeeswaxLighting.label>
+  <RB_BeeswaxLighting.description>研究蜂蠟照明來建造蠟燭。 一種廉價，古怪的電燈替代品。 蠟燭持續數天不需要通過添加新的蜂蠟來充電，它們產生少量的熱量和光。</RB_BeeswaxLighting.description>
+
+  <RB_ClimatizedBeehouses.label>氣候變化的蜜蜂屋</RB_ClimatizedBeehouses.label>
+  <RB_ClimatizedBeehouses.description>您是否想在極端溫度的生物群系中培育蜜蜂？ 你會發現他們大部分時間都處於非活動狀態。 有了氣候變化的蜂房，無論外面的溫度如何，都可以讓它們工作。 但它很慢，所以你最好的選擇是培育生物群落的新蜜蜂以改變常規蜜蜂室的溫度。</RB_ClimatizedBeehouses.description>
+
+  <RB_AdvancedBeehouses.label>先進的蜂房</RB_AdvancedBeehouses.label>
+  <RB_AdvancedBeehouses.description>先進的蜂房消耗少量電力，但蜂產量提高了10％。 有用！</RB_AdvancedBeehouses.description>
+
+  <RB_AdvancedCentrifugation.label>先進的蜂蜜離心</RB_AdvancedCentrifugation.label>
+  <RB_AdvancedCentrifugation.description>高級蜂蜜離心機半自動化離心梳子以獲取資源的過程，讓您的殖民者可以大量提取它們。</RB_AdvancedCentrifugation.description>
+  
+</LanguageData>

@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!-- <WorkGiverDef>
+    <defName>RB_InsertDroneInBeehouse</defName>
+    <label>inserting drone in beehouse</label>
+    <giverClass>RimBees.WorkGiver_InserDroneInBeehouse</giverClass>
+    
+    <verb>insert drone in beehouse</verb>
+    <gerund>inserting drone in beehouse</gerund>
+    <priorityInType>20</priorityInType>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+  </WorkGiverDef>
+  
+   <WorkGiverDef>
+    <defName>RB_InsertDroneInAdvancedBeehouse</defName>
+    <label>inserting drone in advanced beehouse</label>
+    <giverClass>RimBees.WorkGiver_InserDroneInAdvancedBeehouse</giverClass>
+    
+    <verb>insert drone in advanced beehouse</verb>
+    <gerund>inserting drone in advanced beehouse</gerund>
+    <priorityInType>20</priorityInType>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+  </WorkGiverDef>
+  
+     <WorkGiverDef>
+    <defName>RB_InsertDroneInClimatizedBeehouse</defName>
+    <label>inserting drone in climatized beehouse</label>
+    <giverClass>RimBees.WorkGiver_InserDroneInClimatizedBeehouse</giverClass>
+    
+    <verb>insert drone in climatized beehouse</verb>
+    <gerund>inserting drone in climatized beehouse</gerund>
+    <priorityInType>20</priorityInType>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+  </WorkGiverDef>-->
+
+	<RB_DoBillsHoneyCentrifuge.label>在蜂蜜離心機上工作</RB_DoBillsHoneyCentrifuge.label>
+	<RB_DoBillsHoneyCentrifuge.verb>提取蜂蜜和蠟</RB_DoBillsHoneyCentrifuge.verb>
+	<RB_DoBillsHoneyCentrifuge.gerund>提取蜂蜜和蠟</RB_DoBillsHoneyCentrifuge.gerund>
+
+
+	<RB_DoBillsAdvancedHoneyCentrifuge.label>適用於先進的蜂蜜離心機</RB_DoBillsAdvancedHoneyCentrifuge.label>
+	<RB_DoBillsAdvancedHoneyCentrifuge.verb>大量提取蜂蜜和蠟</RB_DoBillsAdvancedHoneyCentrifuge.verb>
+	<RB_DoBillsAdvancedHoneyCentrifuge.gerund>大量提取蜂蜜和蠟</RB_DoBillsAdvancedHoneyCentrifuge.gerund>
+
+
+	<RB_DoBillsBeekeepingWorkbench.label>在養蜂業工作台工作</RB_DoBillsBeekeepingWorkbench.label>
+	<RB_DoBillsBeekeepingWorkbench.verb>工作的</RB_DoBillsBeekeepingWorkbench.verb>
+	<RB_DoBillsBeekeepingWorkbench.gerund>在工作</RB_DoBillsBeekeepingWorkbench.gerund>
+
+
+	<RB_TakeThingsOutOfBeehouse.label>從蜜蜂房裡取出東西</RB_TakeThingsOutOfBeehouse.label>
+	<RB_TakeThingsOutOfBeehouse.verb>從蜜蜂房裡取出東西</RB_TakeThingsOutOfBeehouse.verb>
+	<RB_TakeThingsOutOfBeehouse.gerund>從蜜蜂房裡取出東西</RB_TakeThingsOutOfBeehouse.gerund>
+
+
+	<RB_TakeThingsOutOfAdvancedBeehouse.label>把東西從先進的蜂房中取出來</RB_TakeThingsOutOfAdvancedBeehouse.label>
+	<RB_TakeThingsOutOfAdvancedBeehouse.verb>把東西從先進的蜂房裡取出來</RB_TakeThingsOutOfAdvancedBeehouse.verb>
+	<RB_TakeThingsOutOfAdvancedBeehouse.gerund>把東西從先進的蜂房中取出來</RB_TakeThingsOutOfAdvancedBeehouse.gerund>
+
+
+	<RB_TakeThingsOutOfClimatizedBeehouse.label>把東西從氣候變化的蜜蜂房裡取出來</RB_TakeThingsOutOfClimatizedBeehouse.label>
+	<RB_TakeThingsOutOfClimatizedBeehouse.verb>把東西從氣候變化的蜜蜂房裡取出來</RB_TakeThingsOutOfClimatizedBeehouse.verb>
+	<RB_TakeThingsOutOfClimatizedBeehouse.gerund>把東西從氣候變化的蜜蜂房裡取出來</RB_TakeThingsOutOfClimatizedBeehouse.gerund>
+
+
+	<RB_TakeThingsOutOfBroodChamber.label>將蜜蜂從育雛室中取出</RB_TakeThingsOutOfBroodChamber.label>
+	<RB_TakeThingsOutOfBroodChamber.verb>將蜜蜂帶出育雛室</RB_TakeThingsOutOfBroodChamber.verb>
+	<RB_TakeThingsOutOfBroodChamber.gerund>將蜜蜂從育雛室中取出</RB_TakeThingsOutOfBroodChamber.gerund>
+
+
+	<RB_TakeThingsOutOfHybridizationChamber.label>將蜜蜂從雜交室中取出</RB_TakeThingsOutOfHybridizationChamber.label>
+	<RB_TakeThingsOutOfHybridizationChamber.verb>把蜜蜂帶出雜交室</RB_TakeThingsOutOfHybridizationChamber.verb>
+	<RB_TakeThingsOutOfHybridizationChamber.gerund>將蜜蜂從雜交室中取出</RB_TakeThingsOutOfHybridizationChamber.gerund>
+
+
+	<RB_TakeBeerOutOfFermentingBarrel.label>把mead從發酵桶中拿出來</RB_TakeBeerOutOfFermentingBarrel.label>
+	<RB_TakeBeerOutOfFermentingBarrel.verb>拿蜂蜜酒</RB_TakeBeerOutOfFermentingBarrel.verb>
+	<RB_TakeBeerOutOfFermentingBarrel.gerund>從中吸取蜂蜜酒</RB_TakeBeerOutOfFermentingBarrel.gerund>
+
+
+	<RB_FillMeadFermentingBarrel.label>填充發酵桶</RB_FillMeadFermentingBarrel.label>
+	<RB_FillMeadFermentingBarrel.verb>填</RB_FillMeadFermentingBarrel.verb>
+	<RB_FillMeadFermentingBarrel.gerund>填充</RB_FillMeadFermentingBarrel.gerund>
+
+
+</LanguageData>

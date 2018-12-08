@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<RB_BaseHoney.label>蜜糖</RB_BaseHoney.label>
+	<RB_BaseHoney.description>蜂蜜是由蜜蜂生產的甜味，粘稠的食物。 蜜蜂從植物的含糖分泌物中產生蜂蜜。 蜂蜜可以生吃或與其他成分一起烹飪。</RB_BaseHoney.description>
+
+
+	<RB_BlueHoney.label>藍色的蜂蜜</RB_BlueHoney.label>
+	<RB_BlueHoney.description>這種蜂蜜是從Amalgam蜂巢中提取出來的，具有明顯的藍色調，使其不那麼開胃。 然而，它實際上比普通蜂蜜更有營養。 蜂蜜可以生吃或與其他成分一起烹飪。</RB_BlueHoney.description>
+
+
+	<RB_AdaptiveHoney.label>適應性蜂蜜</RB_AdaptiveHoney.label>
+	<RB_AdaptiveHoney.description>這種蜂蜜是從適應性蜂窩中提取的，具有紅棕色和刺激性氣味。 這種蜂蜜根本不會腐爛，因此可以無限期保存。 蜂蜜可以生吃或與其他成分一起烹飪。</RB_AdaptiveHoney.description>
+
+
+	<RB_BlackHoney.label>黑蜂蜜</RB_BlackHoney.label>
+	<RB_BlackHoney.description>這種蜂蜜是從夜間蜂巢中提取出來的，非常濃密。 它具有一定的健康益處，改善血液過濾和泵送。 蜂蜜可以生吃或與其他成分一起烹飪。</RB_BlackHoney.description>
+
+  
+</LanguageData>

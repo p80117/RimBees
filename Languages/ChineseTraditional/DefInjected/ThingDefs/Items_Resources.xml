@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+<RB_NondescriptMeat.label>不起眼的肉</RB_NondescriptMeat.label>
+<RB_NondescriptMeat.description>這種肉無法充分追溯到任何動物物種，幾乎就像它是在培養皿中生長的人造肉一樣......但它完全可以食用。</RB_NondescriptMeat.description>
+
+
+<RB_NonDescriptVegetables.label>不起眼的蔬菜</RB_NonDescriptVegetables.label>
+<RB_NonDescriptVegetables.description>啊，是的，這是玉米......還是......小麥......呃......黑麥？ 它是某種可以用於烹飪的穀物，但最好不要懷疑它的起源。</RB_NonDescriptVegetables.description>
+
+
+<RB_BeeMilk.label>蜜蜂奶</RB_BeeMilk.label>
+<RB_BeeMilk.description>從乳酸蜜蜂中提取的牛奶。 是的，最好不去想它。</RB_BeeMilk.description>
+
+
+<RB_BeeEggs.label>蜜蜂蛋</RB_BeeEggs.label>
+<RB_BeeEggs.description>這些是Egglaying蜜蜂生產的雞蛋。 是的，最好不要過多考慮它......</RB_BeeEggs.description>
+
+
+<RB_ComponentBioInterface.label>生物界面組件</RB_ComponentBioInterface.label>
+<RB_ComponentBioInterface.description>先進的機器 - 生物界面，用於自動化和控制生物實體。 用於建造先進的蜂房。</RB_ComponentBioInterface.description>
+
+
+<RB_Must.label>蜂蜜必須</RB_Must.label>
+<RB_Must.description>未發酵的蜂蜜酒。 這必須需要在發酵桶中發酵才能成為可飲用的蜂蜜酒。</RB_Must.description>
+
+
+<RB_Mead.label>蜂蜜酒</RB_Mead.label>
+<RB_Mead.description>米德是一種通過用水發酵蜂蜜而產生的酒精飲料，有時含有各種水果，香料，穀物或啤酒花。 這種蜂蜜酒比啤酒略強。</RB_Mead.description>
+<RB_Mead.ingestible.ingestCommandString>喝{0}</RB_Mead.ingestible.ingestCommandString>
+<RB_Mead.ingestible.ingestReportString>正在喝{0}。</RB_Mead.ingestible.ingestReportString>
+      
+  
+  
+</LanguageData>

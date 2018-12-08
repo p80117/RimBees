@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+	<RB_CentrifugeTemperateComb.label>從溫帶蜂巢中提取</RB_CentrifugeTemperateComb.label>
+	<RB_CentrifugeTemperateComb.description>離心溫和蜂巢以提取蜂蜜和蠟</RB_CentrifugeTemperateComb.description>
+	<RB_CentrifugeTemperateComb.jobString>提取蜂蜜和蠟</RB_CentrifugeTemperateComb.jobString>
+
+	<RB_CentrifugeMildComb.label>從溫和的蜂巢中提取</RB_CentrifugeMildComb.label>
+	<RB_CentrifugeMildComb.description>離心溫和蜂巢以提取蜂蜜和蠟</RB_CentrifugeMildComb.description>
+	<RB_CentrifugeMildComb.jobString>提取蜂蜜和蠟</RB_CentrifugeMildComb.jobString>
+
+	<RB_CentrifugeHybridComb.label>從混合蜂巢中提取</RB_CentrifugeHybridComb.label>
+	<RB_CentrifugeHybridComb.description>離心混合蜂巢以提取蜂蜜和白蠟</RB_CentrifugeHybridComb.description>
+	<RB_CentrifugeHybridComb.jobString>提取蜂蜜和白蠟</RB_CentrifugeHybridComb.jobString>
+
+	<RB_CentrifugeAmalgamComb.label>從汞合金蜂巢中提取</RB_CentrifugeAmalgamComb.label>
+	<RB_CentrifugeAmalgamComb.description>離心汞合金蜂巢以提取藍色蜂蜜和白色蠟</RB_CentrifugeAmalgamComb.description>
+	<RB_CentrifugeAmalgamComb.jobString>提取藍色蜂蜜和白色蠟</RB_CentrifugeAmalgamComb.jobString>
+
+	<RB_CentrifugeAlloyComb.label>從合金蜂巢中提取</RB_CentrifugeAlloyComb.label>
+	<RB_CentrifugeAlloyComb.description>離心合金蜂巢，提取蜂蜜，蠟和鋼</RB_CentrifugeAlloyComb.description>
+	<RB_CentrifugeAlloyComb.jobString>提取蜂蜜，蠟和鋼</RB_CentrifugeAlloyComb.jobString>
+		 
+	<RB_CentrifugeAdaptiveComb.label>從自適應蜂巢中提取</RB_CentrifugeAdaptiveComb.label>
+	<RB_CentrifugeAdaptiveComb.description>離心自適應蜂巢以提取適應性蜂蜜和蠟</RB_CentrifugeAdaptiveComb.description>
+	<RB_CentrifugeAdaptiveComb.jobString>提取適應性蜂蜜和蠟</RB_CentrifugeAdaptiveComb.jobString>
+		
+	<RB_CentrifugeNeutroComb.label>從中性蜂巢中提取</RB_CentrifugeNeutroComb.label>
+	<RB_CentrifugeNeutroComb.description>離心中性蜂巢以提取蜂蜜，蠟和神經胺</RB_CentrifugeNeutroComb.description>
+	<RB_CentrifugeNeutroComb.jobString>提取蜂蜜，蠟和中性胺</RB_CentrifugeNeutroComb.jobString> 
+
+	<RB_CentrifugeNutritiousComb.label>提取從有營養的蜂巢</RB_CentrifugeNutritiousComb.label>
+	<RB_CentrifugeNutritiousComb.description>離心營養蜂巢，提取蜂蜜，蠟和肉</RB_CentrifugeNutritiousComb.description>
+	<RB_CentrifugeNutritiousComb.jobString>提取蜂蜜，蠟和肉</RB_CentrifugeNutritiousComb.jobString> 
+
+
+
+	<RB_CentrifugeTechnologicalComb.label>提取從科技性蜂巢</RB_CentrifugeTechnologicalComb.label>
+	<RB_CentrifugeTechnologicalComb.description>離心科技性蜂巢以提取蠟和生物界面組件</RB_CentrifugeTechnologicalComb.description>
+	<RB_CentrifugeTechnologicalComb.jobString>提取蠟和生物界面組件</RB_CentrifugeTechnologicalComb.jobString> 
+
+	<RB_CentrifugeArcticComb.label>提取從北極蜂巢</RB_CentrifugeArcticComb.label>
+	<RB_CentrifugeArcticComb.description>離心北極蜂巢，提取蜂蜜，蠟和冰棒</RB_CentrifugeArcticComb.description>
+	<RB_CentrifugeArcticComb.jobString>提取蜂蜜，蠟和冰棒</RB_CentrifugeArcticComb.jobString> 
+
+	<RB_CentrifugeDesertComb.label>提取從沙漠蜂巢</RB_CentrifugeDesertComb.label>
+	<RB_CentrifugeDesertComb.description>離心沙漠蜂巢，提取蜂蜜，紅蠟和龍舌蘭</RB_CentrifugeDesertComb.description>
+	<RB_CentrifugeDesertComb.jobString>提取蜂蜜，紅蠟和龍舌蘭</RB_CentrifugeDesertComb.jobString> 
+
+	<RB_CentrifugeSwampComb.label>提取從沼澤蜂巢</RB_CentrifugeSwampComb.label>
+	<RB_CentrifugeSwampComb.description>離心沼澤蜂巢，提取蜂蜜，蠟和蘑菇</RB_CentrifugeSwampComb.description>
+	<RB_CentrifugeSwampComb.jobString>提取蜂蜜，蠟和蘑菇</RB_CentrifugeSwampComb.jobString>
+
+	<RB_CentrifugeNocturnalComb.label>提取從夜行蜂巢</RB_CentrifugeNocturnalComb.label>
+	<RB_CentrifugeNocturnalComb.description>離心夜行蜂巢，提取黑蜂蜜和黑蠟</RB_CentrifugeNocturnalComb.description>
+	<RB_CentrifugeNocturnalComb.jobString>提取黑蜂蜜和黑蠟</RB_CentrifugeNocturnalComb.jobString>
+
+	<RB_CentrifugeArgentComb.label>提取從銀色蜂巢</RB_CentrifugeArgentComb.label>
+	<RB_CentrifugeArgentComb.description>離心一個銀色的蜂巢，提取蜂蜜，脆蠟和銀</RB_CentrifugeArgentComb.description>
+	<RB_CentrifugeArgentComb.jobString>提取蜂蜜，脆蠟和銀</RB_CentrifugeArgentComb.jobString>
+
+	<RB_CentrifugeAurumComb.label>提取從金蜂巢</RB_CentrifugeAurumComb.label>
+	<RB_CentrifugeAurumComb.description>離心金蜂巢以提取蜂蜜，脆性蠟和金</RB_CentrifugeAurumComb.description>
+	<RB_CentrifugeAurumComb.jobString>提取蜂蜜，脆蠟和金</RB_CentrifugeAurumComb.jobString>
+
+
+
+	<RB_CentrifugePreciousComb.label>提取從珍貴的蜂巢</RB_CentrifugePreciousComb.label>
+	<RB_CentrifugePreciousComb.description>離心珍貴的蜂巢，提取蜂蜜，脆蠟和玉</RB_CentrifugePreciousComb.description>
+	<RB_CentrifugePreciousComb.jobString>提取蜂蜜，脆蠟和玉</RB_CentrifugePreciousComb.jobString>
+
+	<RB_CentrifugeRadioactiveComb.label>提取從放射性蜂巢</RB_CentrifugeRadioactiveComb.label>
+	<RB_CentrifugeRadioactiveComb.description>離心放射性蜂巢以提取蜂蜜，脆性蠟和鈾</RB_CentrifugeRadioactiveComb.description>
+	<RB_CentrifugeRadioactiveComb.jobString>提取蜂蜜，脆性蠟和鈾</RB_CentrifugeRadioactiveComb.jobString>
+
+	<RB_CentrifugeTipsyComb.label>提取從喝醉的蜂巢</RB_CentrifugeTipsyComb.label>
+	<RB_CentrifugeTipsyComb.description>離心一個醉酒的蜂巢，提取蜂蜜，蠟和麥芽汁</RB_CentrifugeTipsyComb.description>
+	<RB_CentrifugeTipsyComb.jobString>提取蜂蜜，蠟和麥芽汁</RB_CentrifugeTipsyComb.jobString>
+
+	<RB_CentrifugeLuxuriousComb.label>提取從豪華蜂巢</RB_CentrifugeLuxuriousComb.label>
+	<RB_CentrifugeLuxuriousComb.description>離心一個豪華的蜂巢，提取蜂蜜，蠟和仙饌果</RB_CentrifugeLuxuriousComb.description>
+	<RB_CentrifugeLuxuriousComb.jobString>提取蜂蜜，蠟和仙饌果</RB_CentrifugeLuxuriousComb.jobString>
+
+	<RB_CentrifugePsychicComb.label>提取從通靈蜂巢</RB_CentrifugePsychicComb.label>
+	<RB_CentrifugePsychicComb.description>離心精神蜂巢，提取蜂蜜，蠟和精神葉</RB_CentrifugePsychicComb.description>
+	<RB_CentrifugePsychicComb.jobString>提取蜂蜜，蠟和精神葉</RB_CentrifugePsychicComb.jobString>
+
+	<RB_CentrifugeStonerComb.label>提取從斯托納蜂巢</RB_CentrifugeStonerComb.label>
+	<RB_CentrifugeStonerComb.description>離心一個斯托納蜂巢，以提取蜂蜜，蠟和菸葉葉</RB_CentrifugeStonerComb.description>
+	<RB_CentrifugeStonerComb.jobString>提取蜂蜜，蠟和菸葉</RB_CentrifugeStonerComb.jobString>
+
+	<RB_CentrifugeAgriculturalComb.label>提取從農蜂巢</RB_CentrifugeAgriculturalComb.label>
+	<RB_CentrifugeAgriculturalComb.description>離心農業蜂巢，提取蜂蜜，蠟和蔬菜</RB_CentrifugeAgriculturalComb.description>
+	<RB_CentrifugeAgriculturalComb.jobString>提取蜂蜜，蠟和蔬菜</RB_CentrifugeAgriculturalComb.jobString>
+
+	<RB_CentrifugeBittersweetComb.label>提取從苦樂參半蜂巢</RB_CentrifugeBittersweetComb.label>
+	<RB_CentrifugeBittersweetComb.description>離心苦甜的蜂巢，提取蜂蜜，蠟和巧克力</RB_CentrifugeBittersweetComb.description>
+	<RB_CentrifugeBittersweetComb.jobString>提取蜂蜜，蠟和巧克力</RB_CentrifugeBittersweetComb.jobString>
+
+	<RB_CentrifugeLacticComb.label>提取從乳酸蜂巢</RB_CentrifugeLacticComb.label>
+	<RB_CentrifugeLacticComb.description>離心乳酸蜂巢以提取蜂蜜，蠟和牛奶</RB_CentrifugeLacticComb.description>
+	<RB_CentrifugeLacticComb.jobString>提取蜂蜜，蠟和牛奶</RB_CentrifugeLacticComb.jobString>
+
+	<RB_CentrifugeEgglayingComb.label>提取從雞蛋蜂巢</RB_CentrifugeEgglayingComb.label>
+	<RB_CentrifugeEgglayingComb.description>離心雞蛋蜂巢，提取蜂蜜，蠟和雞蛋</RB_CentrifugeEgglayingComb.description>
+	<RB_CentrifugeEgglayingComb.jobString>提取蜂蜜，蠟和雞蛋</RB_CentrifugeEgglayingComb.jobString>
+
+	<RB_CentrifugeElectronicComb.label>提取從電子蜂巢</RB_CentrifugeElectronicComb.label>
+	<RB_CentrifugeElectronicComb.description>離心電子蜂巢，提取蜂蜜，蠟和工業成分</RB_CentrifugeElectronicComb.description>
+	<RB_CentrifugeElectronicComb.jobString>提取蜂蜜，蠟和工業成分</RB_CentrifugeElectronicComb.jobString>
+
+	<RB_CentrifugeOilyComb.label>提取從油性蜂巢</RB_CentrifugeOilyComb.label>
+	<RB_CentrifugeOilyComb.description>離心油性蜂巢，提取蜂蜜，蠟和化學燃料</RB_CentrifugeOilyComb.description>
+	<RB_CentrifugeOilyComb.jobString>提取蜂蜜，蠟和化學燃料</RB_CentrifugeOilyComb.jobString>
+
+	<RB_CentrifugePlasticComb.label>提取從塑料蜂巢</RB_CentrifugePlasticComb.label>
+	<RB_CentrifugePlasticComb.description>離心塑料蜂巢，提取蜂蜜，蠟和石膏</RB_CentrifugePlasticComb.description>
+	<RB_CentrifugePlasticComb.jobString>提取蜂蜜，蠟和塑料</RB_CentrifugePlasticComb.jobString>
+
+	<RB_CentrifugeHighComb.label>提取從高蜂巢</RB_CentrifugeHighComb.label>
+	<RB_CentrifugeHighComb.description>離心塑料蜂巢，提取蜂蜜，蠟和yayo</RB_CentrifugeHighComb.description>
+	<RB_CentrifugeHighComb.jobString>提取蜂蜜，蠟和yayo</RB_CentrifugeHighComb.jobString>
+
+	<RB_CentrifugeLuciferComb.label>提取從路西法蜂巢</RB_CentrifugeLuciferComb.label>
+	<RB_CentrifugeLuciferComb.description>離心一個路西法蜂巢，以提取蜂蜜，蠟和路西法合劑</RB_CentrifugeLuciferComb.description>
+	<RB_CentrifugeLuciferComb.jobString>提取蜂蜜，蠟和熒光</RB_CentrifugeLuciferComb.jobString>
+
+	<RB_CentrifugeCulinaryComb.label>提取從烹飪蜂巢</RB_CentrifugeCulinaryComb.label>
+	<RB_CentrifugeCulinaryComb.description>離心烹飪蜂巢，提取蜂蜜，蠟和營養膏</RB_CentrifugeCulinaryComb.description>
+	<RB_CentrifugeCulinaryComb.jobString>提取蜂蜜，蠟和營養膏</RB_CentrifugeCulinaryComb.jobString>
+
+	<RB_CentrifugeChefComb.label>提取從廚師蜂巢</RB_CentrifugeChefComb.label>
+	<RB_CentrifugeChefComb.description>離心廚師蜂巢，提取蜂蜜，蠟和精美的飯菜</RB_CentrifugeChefComb.description>
+	<RB_CentrifugeChefComb.jobString>提取蜂蜜，蠟和精美的飯菜</RB_CentrifugeChefComb.jobString>
+
+	<RB_CentrifugeMedicinalComb.label>提取從藥蜂巢</RB_CentrifugeMedicinalComb.label>
+	<RB_CentrifugeMedicinalComb.description>離心藥用蜂巢，提取蜂蜜，蠟和草藥</RB_CentrifugeMedicinalComb.description>
+	<RB_CentrifugeMedicinalComb.jobString>提取蜂蜜，蠟和草藥</RB_CentrifugeMedicinalComb.jobString>
+
+	<RB_CentrifugeSurgeonComb.label>提取從外科醫生蜂巢</RB_CentrifugeSurgeonComb.label>
+	<RB_CentrifugeSurgeonComb.description>離心外科醫生蜂巢，提取蜂蜜，蠟和超級藥物</RB_CentrifugeSurgeonComb.description>
+	<RB_CentrifugeSurgeonComb.jobString>提取蜂蜜，蠟和超高科技藥物</RB_CentrifugeSurgeonComb.jobString>
+
+	<RB_CentrifugeSyntheticComb.label>提取從合成蜂巢</RB_CentrifugeSyntheticComb.label>
+	<RB_CentrifugeSyntheticComb.description>離心合成蜂巢以提取蜂蜜，蠟和合成物</RB_CentrifugeSyntheticComb.description>
+	<RB_CentrifugeSyntheticComb.jobString>提取蜂蜜，蠟和合成物</RB_CentrifugeSyntheticComb.jobString>
+
+	<RB_CentrifugeHyperComb.label>提取從超蜂巢</RB_CentrifugeHyperComb.label>
+	<RB_CentrifugeHyperComb.description>離心超蜂巢以提取蜂蜜，蠟和超織物</RB_CentrifugeHyperComb.description>
+	<RB_CentrifugeHyperComb.jobString>提取蜂蜜，蠟和超編織</RB_CentrifugeHyperComb.jobString>
+
+</LanguageData>
+
+<!--
+-->

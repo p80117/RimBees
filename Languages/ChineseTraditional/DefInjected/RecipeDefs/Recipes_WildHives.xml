@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+
+<LanguageData>
+
+		<RB_ExtracTemperateHive.label>從野生溫帶的蜂巢中提取</RB_ExtracTemperateHive.label>
+		<RB_ExtracTemperateHive.description>從野生溫帶的蜂箱中輕輕提取蜜蜂，女皇蜂和蜂巢</RB_ExtracTemperateHive.description>
+		<RB_ExtracTemperateHive.jobString>提取蜜蜂</RB_ExtracTemperateHive.jobString>
+
+		<RB_ExtracMildHive.label>從野生溫和的蜂巢中提取</RB_ExtracMildHive.label>
+		<RB_ExtracMildHive.description>從野生溫和的蜂箱中輕輕提取蜜蜂，女皇蜂和蜂巢</RB_ExtracMildHive.description>
+		<RB_ExtracMildHive.jobString>提取蜜蜂</RB_ExtracMildHive.jobString>
+		
+</LanguageData>
+

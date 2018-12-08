@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+		<RB_CookHoneyMealSimple.label>烹飪簡單的蜂蜜餐</RB_CookHoneyMealSimple.label>
+		<RB_CookHoneyMealSimple.description>用一種成分烹製簡單的蜂蜜粉.</RB_CookHoneyMealSimple.description>
+		<RB_CookHoneyMealSimple.jobString>烹飪簡單的蜂蜜餐.</RB_CookHoneyMealSimple.jobString>
+				
+		<RB_CookHoneyMealSimpleBulk.label>散裝4道簡單的蜂蜜粉</RB_CookHoneyMealSimpleBulk.label>
+		<RB_CookHoneyMealSimpleBulk.description>從一種成分中煮出4種直接的蜂蜜粉。 但是，這有一些成分浪費.</RB_CookHoneyMealSimpleBulk.description>
+		<RB_CookHoneyMealSimpleBulk.jobString>烹飪4道簡單的蜂蜜飯.</RB_CookHoneyMealSimpleBulk.jobString>
+
+		<RB_CookHoneyMealFine.label>煮精緻蜂蜜飯</RB_CookHoneyMealFine.label>
+		<RB_CookHoneyMealFine.description>從蜂蜜和植物成分的組合烹飪一些複雜的膳食.</RB_CookHoneyMealFine.description>
+		<RB_CookHoneyMealFine.jobString>烹飪精緻的蜂蜜粉.</RB_CookHoneyMealFine.jobString>
+
+		<RB_CookHoneyMealFineBulk.label>散裝4道個精緻的蜂蜜飯</RB_CookHoneyMealFineBulk.label>
+		<RB_CookHoneyMealFineBulk.description>散裝4種混合蜂蜜和植物成分的複雜食物。 但是，這有一些成分浪費.</RB_CookHoneyMealFineBulk.description>
+		<RB_CookHoneyMealFineBulk.jobString>烹飪4道精緻的蜂蜜飯.</RB_CookHoneyMealFineBulk.jobString>
+
+		<RB_CookHoneyMealLavish.label>煮豪華的蜂蜜飯</RB_CookHoneyMealLavish.label>
+		<RB_CookHoneyMealLavish.description>從蜂蜜和植物成分的組合烹飪非常複雜的膳食。 大部分成分都浪費了.</RB_CookHoneyMealLavish.description>
+		<RB_CookHoneyMealLavish.jobString>烹飪豪華的蜂蜜餐.</RB_CookHoneyMealLavish.jobString>
+
+		<RB_CookHoneyMealLavishBulk.label>散裝4道豪華的蜂蜜飯</RB_CookHoneyMealLavishBulk.label>
+		<RB_CookHoneyMealLavishBulk.description>散裝採用蜂蜜和植物成分的組合烹製4種非常複雜的食物。 大部分成分都浪費了.</RB_CookHoneyMealLavishBulk.description>
+		<RB_CookHoneyMealLavishBulk.jobString>烹飪豪華的蜂蜜飯.</RB_CookHoneyMealLavishBulk.jobString>
+
+
+</LanguageData>
